@@ -1,0 +1,24 @@
+1.Questionair
+2.Programming
+3.Telephonic
+4.Pair Programming
+5.HR
+_______________________________________
+12factor
+git-flow
+________________________________________________________________
+Laravel
+MySQL
+Vue.js
+_______________________________________________________________
+Git
+CLI
+Sublime
+php/laravel
+MySQL
+Run Locally
+Understand boilerplate
+Docker Compose
+Markdown
+temporal.io
+
