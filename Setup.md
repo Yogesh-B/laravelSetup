@@ -1,11 +1,10 @@
 # Laravel Setup docs
-[1.Setup project](#setup)
+[1. Setup project](#setup)
+	
 
 
 
-
-
-# setup
+# Setup
 
 1. Install PHP by firing following command
 >sudo pacman -S php
@@ -45,19 +44,18 @@ exit $RESULT
  	```
    (Optional setup/ AUTH)<br>
 	(i). Setup auth in Project UI
->composer require laravel/ui
-
->php artisan ui:auth 
+>composer require laravel/ui<br>
+>php artisan ui:auth <br>
 >npm install && npm run dev
 
-(ii). Setup database (sqlite for example)<br>
-	a. Open `.env` file and comment all lines having `DB_*` at line start by adding `#` at start.<br>	
-	b. Add `DB_CONNECTION=sqlite` line before those commented lines.  <br>
-	c. Create file `database/database.sqlite`.(do not write anything! Let it be empty)
-	d. Run `php artisan migrate`
+	(ii). Setup database (sqlite for example)<br>
+		a. Open `.env` file and comment all lines having `DB_*` at line start by adding `#` at start.<br>
+		b. Add `DB_CONNECTION=sqlite` line before those commented lines.  <br>
+		c. Create file `database/database.sqlite`.(do not write anything! Let it be empty)<br>
+		d. Run `php artisan migrate`
 
 Now you are all set with database
-
+>NOTE: You have to set `DB_*` parameters for MySQL or Postgres in `.env` file.
 
 
 
