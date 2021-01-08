@@ -1,0 +1,65 @@
+# 04/01/2021 to 07/01/2021
+..Git commands
+..CLI commands
+..Git-Flow
+..12Factor
+..Laravel setup with sqlite (with auth) (with markdown)
+..Laravel setup with MySql docker (with auth)
+	..@yield('text')
+	..@extends('view_name')
+	..@section('text')
+	..@endsection
+	..{{asset('css/app.css')}}
+____________________________________________________________________________________
+# 08/01/2021
+..Laravel directory structure
+	..app/Http/Controllers/ (Controller)
+	..app/Models/  (Models for database)
+	..resources/views/ (Views)
+
+	[Create database model first and migrate it, then create View , and then Controller for handling data and flow. ...define routes in "web.php"]
+
+
+#web.php
+Route::get('/url',function_or_controller)
+Route::post('/url',another_function_or_controller)  //import controller before using it
+..some other http methods also..........
+
+#Controllerz
+return view('view_name')
+
+
+	..@if()
+	..@else
+	..@endif
+	..@auth
+	..@endauth
+	..@guest
+	..@endguest
+	..dd()
+	..auth()->
+	..redirect()->route('view_name')
+	..back()
+	..session('session_var')
+	..route('view_name')
+	..Middleware in "Kernel.php"
+	..auth()->attempt([email,password],remember) //arguments are preceded by  request->
+	..controller functions has (Request $request) argument when need to get data from user.
+	..php artisan make:controller controller_name  [after you can edit it]
+	..php artisan make:model model_name -m -f   [migration/factory//use --help for more info]        [after you can edit it]
+		..
+		..foreignId()->constrained()->onDelete()/id()/text()/timestamps()
+
+#successfully created table using model and migration in MySql
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________________________________
+
