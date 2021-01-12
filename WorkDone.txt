@@ -126,6 +126,7 @@ ________________________________________________________________________________
 ........12 FACTOR MEETING...........
 codebase
 dependencies
+config
 resource as backing services
 
 
@@ -166,10 +167,21 @@ ________________________________________________________________________________
 
 #12/11/2021
 
-Laravel practice project
+Laravel practice project (https://www.youtube.com/watch?v=MFh0Fd7BsjE)
 
-12 factor
-command -m-f
-php testing
+........12 FACTOR MEETING...........
+build,release , run
+Concurrency
+Processes
+Disposability
+
+....................................
+
+command -m-f....means migration/factory,,,,,-msfc means migration/seeder/factory/controller
+				..controller handles functions, data processing.
+				..factory is for testing database. table definition is here.
+				..seeder is for testing database. it uses table definition given in factory to insert data.
+				..migration defines table structure to be created or changed in database. 
+
 
 
