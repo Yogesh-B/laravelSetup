@@ -164,7 +164,12 @@ service provider changes.)           for new services)
 ()
 ________________________________________________________________________________________________________________________________________
 
+#12/11/2021
 
+Laravel practice project
 
+12 factor
+command -m-f
+php testing
 
 
