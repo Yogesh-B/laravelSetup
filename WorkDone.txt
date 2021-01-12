@@ -10,6 +10,61 @@
 	..@section('text')
 	..@endsection
 	..{{asset('css/app.css')}}
+	
+	
+######################################################
+
+I. Codebase
+One codebase tracked in revision control, many deploys
+((our repo will be hosted in github, so it is going to pass this factor))
+
+II. Dependencies
+Explicitly declare and isolate dependencies
+((we are using docker, hence no dependency issues will be there.))
+
+III. Config
+Store config in the environment
+((our app will be in docker,so there will be no config issues.))
+
+IV. Backing services
+Treat backing services as attached resources.
+((docker will be there..! or in laravel we can make a separate ".env" file for development and release.))
+
+V. Build, release, run
+Strictly separate build and run stages
+(())
+
+VI. Processes
+Execute the app as one or more stateless processes.(Twelve-factor processes are stateless and share-nothing.)
+(())
+
+VII. Port binding
+Export services via port binding
+((we are running all in one docker!!!))
+
+VIII. Concurrency
+Scale out via the process model(In the twelve-factor app, processes are a first class citizen. Processes in the twelve-factor app take strong cues from the unix process model for running service daemons. )
+(())
+
+IX. Disposability
+Maximize robustness with fast startup and graceful shutdown
+((docker!!! is easy to start and stop once setup.))
+
+X. Dev/prod parity
+Keep development, staging, and production as similar as possible
+(())
+
+XI. Logs
+Treat logs as event streams
+((tail -f log1.log))
+
+XII. Admin processes
+Run admin/management tasks as one-off processes
+(())
+######################################################	
+	
+	
+	
 ____________________________________________________________________________________
 # 08/01/2021
 ..Laravel directory structure
@@ -36,6 +91,8 @@ return view('view_name')
 	..@endauth
 	..@guest
 	..@endguest
+	..@error
+	..@enderror
 	..dd()
 	..auth()->
 	..redirect()->route('view_name')
@@ -53,13 +110,61 @@ return view('view_name')
 #successfully created table using model and migration in MySql
 
 
+____________________________________________________________________________________
+
+# 11/01/2021
+..use name() method in Route and route('name') in view.
+..request->get('name_of_field')
+..validate([]);
+..{{old('name')}}   //retrive data of old session
+..auth()->attempt(email,password as list)
+..Creating a CRUD app for practice
 
 
 
 
-
-
+........12 FACTOR MEETING...........
+codebase
+dependencies
+resource as backing services
 
 
 ____________________________________________________________________________________
+
+
+
+
+
+						  .env
+						    |                        |
+						    |                        |                   
+						    |                        |
+						    |conf1.service1          |  					
+						    |___________             |
+						    |                        | 					 service 1
+						    |                        |
+						    |                        |
+						    |conf2.service2          | 						service 2
+						    |______________          |	
+						    |                        |
+						    |                        |					service n
+						    |                        | 
+						    |                        |
+						    |                        |
+						    |						 |
+						    |						 |
+
+_______________________  		     _______________           				______________________
+
+MAIN DRIVER CODE                     WRAPPER CLASS                             (external services like google facebook)
+(written by us                       (written by us )
+ and not changed even       		(new functions added
+service provider changes.)           for new services)
+                                     (SCALABILITY comes from here)
+()
+________________________________________________________________________________________________________________________________________
+
+
+
+
 
