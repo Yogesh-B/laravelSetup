@@ -187,6 +187,15 @@ command -m-f....means migration/factory,,,,,-msfc means migration/seeder/factory
 ________________________________________________________________________________________________________________________________________
 #13/01/2021
 
+....
+12 factors
+logs
+admin process
+dev/prod parity
+port binding
+....
+
+
 @if()
 @elseif()
 @else
