@@ -1,3 +1,14 @@
+If (any error)
+    Search google
+    If (not found on google)
+        Ask to mentor
+Else
+   Do your work.
+*you should know "why" it occured even if you can fix it or not. :)
+
+
+
+________________________________________________________________________________
 # 04/01/2021 to 07/01/2021
 ..Git commands
 ..CLI commands
