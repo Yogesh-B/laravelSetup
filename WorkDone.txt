@@ -184,4 +184,21 @@ command -m-f....means migration/factory,,,,,-msfc means migration/seeder/factory
 				..migration defines table structure to be created or changed in database. 
 
 
+________________________________________________________________________________________________________________________________________
+#13/01/2021
 
+@if()
+@elseif()
+@else
+@endif
+@unless
+@endunless
+@php
+@endphp
+@for($i=0;$i<5;$i++)
+@endfor
+@foreach($pizzas as $pizza)
+@endforeach
+..query parameters
+..create model and then..
+	..$table='table_name' 
