@@ -195,7 +195,7 @@ command -m-f....means migration/factory,,,,,-msfc means migration/seeder/factory
 				..migration defines table structure to be created or changed in database. 
 
 
-________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 #13/01/2021
 
 ....
@@ -222,3 +222,24 @@ port binding
 ..query parameters
 ..create model and then..
 	..$table='table_name' 
+
+
+_________________________________________________________________________________________________________________________________________________
+#14/01/2021
+..reproduced 'students' error. (SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Laravel.students' doesn't exist (SQL: select * from `students`))
+	..database table = student //migrations are already up-to-date 
+	CAUSE->(laravel looks for 'users' table in database for 'User' model. 'Name' model refers to 'names' table in database.)
+	SOLUTION->(in model define $table='name' or rename 'name' to 'names')
+
+..'timestamps' error..
+	CAUSE->(it looks for timestamps by default)
+	SOLUTION->($timestamps->false)
+..CRUD done....(used Naman's repo for some function reference, and google for error resolutions 😊)
+_________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________________________
