@@ -1,4 +1,5 @@
-clone it
+# Laravel Boilerplate Setup
+clone it from [repo](git@github.com:Improwised/laravel-api.git)
 
 then go to directory having artisan file
 open terminal there
@@ -7,7 +8,7 @@ open terminal there
 
 > composer update 
 
-rename file of .env
+rename file of .env.example to .env
 
 create database in DBeaver as name specified in .env
 

@@ -236,6 +236,12 @@ ________________________________________________________________________________
 	SOLUTION->($timestamps->false)
 ..CRUD done....(used Naman's repo for some function reference, and google for error resolutions 😊)
 _________________________________________________________________________________________________________________________________________________
+#15/01/2021
+..laravel testing tutorial
+	..factory with seeder
+	..
+
+
 
 
 
