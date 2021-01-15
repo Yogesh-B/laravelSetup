@@ -239,6 +239,7 @@ ________________________________________________________________________________
 #15/01/2021
 ..laravel testing tutorial
 	..factory with seeder
+	..looking into docs for reference
 	..
 
 
