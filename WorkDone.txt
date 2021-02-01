@@ -241,12 +241,54 @@ ________________________________________________________________________________
 	..factory with seeder
 	..looking into docs for reference
 	..
+_________________________________________________________________________________________________________________________________________________
+#01/02/2021
+...feature/candidate_table
+
+{{
+	git flow init 
+
+	git flow feature start MYFEATURE (new feature branch based on 'develop')
+
+	git flow feature finish MYFEATURE (
+		    	Merges MYFEATURE into 'develop'
+    			Removes the feature branch
+   			 	Switches back to 'develop' branch
+				)
+
+    git flow feature publish MYFEATURE  (Publish a feature to the remote server )
+
+    git flow feature pull origin MYFEATURE (Get a feature published by another user. )
+
+    git flow feature track MYFEATURE (You can track a feature on origin by using )
+
+    git flow release start RELEASE [BASE]  ( creates a release branch created from the 'develop' )
+
+    git flow release publish RELEASE (allow release commits by other developers.)
+
+    git flow release track RELEASE (track it)
 
 
+    git flow release finish RELEASE (
+  						  Merges the release branch back into 'master'
+    					  Tags the release with its name
+                          Back-merges the release into 'develop'
+                          Removes the release branch
+                           )
+
+    git push origin --tags (push the tags)
+
+}}
+
+..migration,,,,model,,,,,factory,,,,,,,seeder of candidate
 
 
-
-
-
+####
+changes#
+indentation
+json
+name snake case table/column
+####
 
 _________________________________________________________________________________________________________________________________________________
+
