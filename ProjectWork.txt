@@ -26,4 +26,6 @@ _______________________________________________________________
 
 TBT(to be tried)
 git rebase
+Rest API..read
+Swagger Laravel...read docs...composer.json
 

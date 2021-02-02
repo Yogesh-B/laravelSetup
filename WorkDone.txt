@@ -292,4 +292,23 @@ length of columns
 ####
 
 _________________________________________________________________________________________________________________________________________________
+#02/02/2021
+
+((
+let commit messages be descriptive
+let comment on PR be descriptive
+after PR check and resolve conflicts and push it! :)
+))
+
+Candidate API
+1.list all candidates
+2.find a candidate
+3.delete a candidate(on the way)
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________________________
 
