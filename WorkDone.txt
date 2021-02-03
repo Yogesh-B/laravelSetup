@@ -305,10 +305,52 @@ Candidate API
 2.find a candidate
 3.delete a candidate(on the way)
 
+_______________________________________________________________________________________________________________________________________________
+#03/02/2021
+
+1.delete method problem to be solved
+2.show method problem of two records to be solved // solved by removing unncessary find query
+3.ADD and UPDATE to be done
+
+####Issue####
+setup
+
+# git setup
+'git clone https://github.com/Improwised/apricot-2.git'
+'git flow init'
+'git flow feature checkout candidate_api'
+
+# docker-mysql setup
+'docker run --name docker-mysql -v /dockermysqldata:/var/lib/mysql -p 3306:3306/tcp -c 900 -e MYSQL_ALLOW_EMPTY_PASSWORD=yes -d mysql:5.7.9'
+
+(Optional Docker permissions)
+```sh
+sudo groupadd docker
+sudo gpasswd -a ${USER} docker
+sudo systemctl enable docker
+sudo systemctl start docker
+newgrp docker
+```
+# Start the docker
+'docker start docker-mysql'
+
+# Laravel setup ('cd app' then type following commands)
+'composer update --no-scripts'
+
+make database 'DB_NAME' in mysql
+rename '.env.example' to '.env'
+
+run following commands
+'php artisan migrate'
+'php artisan db:seed'
 
 
+#reproducing issue
+1.php artisan serve
+2.send 'http://127.0.0.1:8000/api/v1/candidates/{key_from_database}' with 'delete' method from 'POSTMAN'
+this will not update 'deleted_at' field in 'candidates' table(which it should do).
 
+##############
 
-
-_________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________
 
