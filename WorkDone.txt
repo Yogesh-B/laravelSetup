@@ -8,7 +8,7 @@ Else
 
 
 
-________________________________________________________________________________
+___________________________________________________________________________________________________________________________
 # 04/01/2021 to 07/01/2021
 ..Git commands
 ..CLI commands
@@ -355,6 +355,30 @@ run following commands
 this will not update 'deleted_at' field in 'candidates' table(which it should do).
 
 ##############
+
+_______________________________________________________________________________________________________________________________________________
+#04/02/2021
+
+candidate_api_fix //did not work
+test cases
+(((
+1.fetch all candidates
+2.fetch specific candidate
+3.validate update	name
+			email
+			contact_no
+			education
+			college
+			experience
+			last_company
+4.record is inserted successfully
+5.record is validated before insertion
+6.record is deleted
+
+)))
+
+
+
 
 _______________________________________________________________________________________________________________________________________________
 
