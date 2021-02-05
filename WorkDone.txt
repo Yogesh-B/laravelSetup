@@ -381,4 +381,22 @@ test cases
 
 
 _______________________________________________________________________________________________________________________________________________
+#05/02/2021
 
+"Do not do work in hurry, It may break things!!!"
+
+/vendor/laravel/framework/src/Illuminate/Database/SQLiteConnection.php:88
+original.....use Doctrine\DBAL\Driver\PDOSqlite\Driver as DoctrineDriver;
+path of new DBAL........\vendor\doctrine\dbal\src\Driver\PDO\SQLite\Driver
+(((define require->doctrine->2.4.2  then 'composer update')))
+
+rename_candidate_id migration for fix of DELETE/UPDATE issue.
+
+test cases written.
+
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
