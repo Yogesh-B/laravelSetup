@@ -393,6 +393,17 @@ path of new DBAL........\vendor\doctrine\dbal\src\Driver\PDO\SQLite\Driver
 rename_candidate_id migration for fix of DELETE/UPDATE issue.
 
 test cases written.
+_______________________________________________________________________________________________________________________________________________
+#08/02/2021
+
+..made changes
+	..key variable separated
+	..asserts separated
+
+..swagger docs created
+..updated insert method to return all
+..updated test case accordingly
+
 
 
 
