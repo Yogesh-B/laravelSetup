@@ -403,10 +403,17 @@ ________________________________________________________________________________
 ..swagger docs created
 ..updated insert method to return all
 ..updated test case accordingly
+_______________________________________________________________________________________________________________________________________________
+#09/02/2021
 
-
-
-
+..new issue api/database for stages
+(((
+why key size should be mentioned?
+what common format should be used? for all api?
+change the migration for key size directlty.
+only name and email are required.
+)))
+..candidate_api needs store return changes...key
 
 
 
