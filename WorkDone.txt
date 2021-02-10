@@ -415,6 +415,19 @@ only name and email are required.
 )))
 ..candidate_api needs store return changes...key
 
+MODEL/MIGRATION/FACTORY/SEEDER done
+API done
+test cases started
+_______________________________________________________________________________________________________________________________________________
+#10/02/2021
+
+...API response structure to be changed.
+"make commit/change"
+resource and collection for responses
+(changes required in candidate_api) 
+	..API response formate with resource and collections also exceptions
+	..
+
 
 
 _______________________________________________________________________________________________________________________________________________
