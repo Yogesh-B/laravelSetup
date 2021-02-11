@@ -421,13 +421,39 @@ test cases started
 _______________________________________________________________________________________________________________________________________________
 #10/02/2021
 
-...API response structure to be changed.
 "make commit/change"
-resource and collection for responses
-(changes required in candidate_api) 
-	..API response formate with resource and collections also exceptions
-	..
+..reading resource and collection docs
+
+_______________________________________________________________________________________________________________________________________________
+#11/02/2021
+..API change
+	..response structure change with error handling and resource collection
+
+
+
 
 
 
 _______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
+...API response structure to be changed.
+resource and collection for responses
+(changes required in candidate_api) 
+	..API response formate with resource and collections also exceptions
+	..test cases needs change accordingly
+	..SWAGGER docs add parameter and change response structure
