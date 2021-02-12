@@ -428,6 +428,11 @@ ________________________________________________________________________________
 #11/02/2021
 ..API change
 	..response structure change with error handling and resource collection
+_______________________________________________________________________________________________________________________________________________
+#12/02/2021
+..candidate migration change
+"Do not spend too much time to make it perfect, I will tell you if there are any changes"
+..API and Swagger changes of candidate_api done
 
 
 
@@ -451,9 +456,12 @@ ________________________________________________________________________________
 
 
 _______________________________________________________________________________________________________________________________________________
-...API response structure to be changed.
-resource and collection for responses
-(changes required in candidate_api) 
-	..API response formate with resource and collections also exceptions
-	..test cases needs change accordingly
-	..SWAGGER docs add parameter and change response structure
+
+
+
+..API changes in Stages_API
+..test cases change and addition in Stages_API
+..Swagger creation in Stages_API
+
+
+	
