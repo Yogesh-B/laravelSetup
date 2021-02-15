@@ -433,14 +433,12 @@ ________________________________________________________________________________
 ..candidate migration change
 "Do not spend too much time to make it perfect, I will tell you if there are any changes"
 ..API and Swagger changes of candidate_api done
-
-
-
-
-
-
+..test cases changes in candidate_api done
+..swagger docs additions done.
 _______________________________________________________________________________________________________________________________________________
-
+#15/02/2021
+..Stages_api_database API changed, Swagger docs added.
+..test cases added
 
 
 
@@ -462,6 +460,6 @@ ________________________________________________________________________________
 ..API changes in Stages_API
 ..test cases change and addition in Stages_API
 ..Swagger creation in Stages_API
-
+..candidate_api swagger docs varify with actual response struct.
 
 	
