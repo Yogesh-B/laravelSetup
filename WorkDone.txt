@@ -439,16 +439,17 @@ ________________________________________________________________________________
 #15/02/2021
 ..Stages_api_database API changed, Swagger docs added.
 ..test cases added
-
-
-
-
-
-
+_______________________________________________________________________________________________________________________________________________
+#16/02/2021
+..Revising git
+..reproduced same error in multiple ways
+..reproduced issue again and again
 
 _______________________________________________________________________________________________________________________________________________
+#17/02/2021
 
-
+..git revision
+..Resource fully integrated with response of success and failure(common exceptions)
 
 
 
@@ -459,5 +460,10 @@ ________________________________________________________________________________
 
 
 ..candidate_api swagger docs varify with actual response struct.
-
+.
+..exceptions all in handler nothing in controller....if unprocessability not found make your own exception
+..test case for soft delete
 	
+
+		2.change test cases 
+		3.if needed then swagger also
