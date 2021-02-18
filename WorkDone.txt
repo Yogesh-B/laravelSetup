@@ -450,6 +450,17 @@ ________________________________________________________________________________
 
 ..git revision
 ..Resource fully integrated with response of success and failure(common exceptions)
+_______________________________________________________________________________________________________________________________________________
+#18/02/2021
+..insert/update unprocessable entity with exception
+..test case for soft delete
+..candidate_api_fix cherry-pick
+..delete...200 ..structure
+	..test case
+	..swagger
+test cases 
+	..unprocessable
+	..400
 
 
 
@@ -465,5 +476,4 @@ ________________________________________________________________________________
 ..test case for soft delete
 	
 
-		2.change test cases 
-		3.if needed then swagger also
+..stages not in type...but in resource creation (paginations???/)
