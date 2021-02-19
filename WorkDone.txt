@@ -464,9 +464,10 @@ test cases
 
 _______________________________________________________________________________________________________________________________________________
 #19/02/2021
-
-
-
+//success....cotroller/success
+//failure....handler/failure
+stage_api_database merged :) 
+candidate_api response and test cases 
 _______________________________________________________________________________________________________________________________________________
 
 ..candidate_api swagger docs varify with actual response struct.
@@ -480,3 +481,6 @@ ________________________________________________________________________________
 
 
 ..//..shows two times array in response. Is it ok?
+
+..//..in candidate_api response structure needs change? it is little different
+..//..and exceptions are not well handled
