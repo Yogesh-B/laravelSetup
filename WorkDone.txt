@@ -472,9 +472,14 @@ ________________________________________________________________________________
 #22/02/2021
 ..candidate_api_fix  swagger done
 ..
+"Register component before you use it!" :)!
 
 _______________________________________________________________________________________________________________________________________________
 
 
 ..we can make a form for candidate to register them selves,(using candidate_api)
-	..after that HR can approve candidate , that will initiate the process(using initiate_candidacy{which is remaining to build})
+	1.home made form
+	2.google form data transfered to our server using API
+	3.
+..after that HR can approve candidate , that will initiate the process(using initiate_candidacy{which is remaining to build})
+	
