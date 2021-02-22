@@ -469,18 +469,12 @@ ________________________________________________________________________________
 stage_api_database merged :) 
 candidate_api response and test cases 
 _______________________________________________________________________________________________________________________________________________
+#22/02/2021
+..candidate_api_fix  swagger done
+..
 
-..candidate_api swagger docs varify with actual response struct.
-	
-
-..success response  resource change also in handler (constructor with multi arg)
-..failure accordingly
-
-//success....cotroller/success
-//failure....handler/failure
+_______________________________________________________________________________________________________________________________________________
 
 
-..//..shows two times array in response. Is it ok?
-
-..//..in candidate_api response structure needs change? it is little different
-..//..and exceptions are not well handled
+..we can make a form for candidate to register them selves,(using candidate_api)
+	..after that HR can approve candidate , that will initiate the process(using initiate_candidacy{which is remaining to build})
