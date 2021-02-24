@@ -475,6 +475,33 @@ ________________________________________________________________________________
 "Register component before you use it!" :)!
 
 _______________________________________________________________________________________________________________________________________________
+#23/02/2021
+..learn Vue	
+	..component
+		..data becomes data()
+		..props to pass data
+	..computed
+	..methods
+	..data
+	..bind
+	..model
+..learn nuxt
+	..pages
+	..
+_______________________________________________________________________________________________________________________________________________
+#24/02/2024
+..form build for registration
+
+
+
+
+
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
 
 
 ..we can make a form for candidate to register them selves,(using candidate_api)
@@ -483,3 +510,8 @@ ________________________________________________________________________________
 	3.
 ..after that HR can approve candidate , that will initiate the process(using initiate_candidacy{which is remaining to build})
 	
+
+..initiate_candidate issue
+	..create migration for candidate table's  structure change	
+	..create initiate_api
+	..connect to form
