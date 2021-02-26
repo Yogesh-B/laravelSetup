@@ -47,3 +47,42 @@ Candidacy_id
 History_id
 Verdict
 Description
+___________________________________________________________________________________________________________________________
+https://www.npmjs.com/package/axios#axios-api
+https://nuxtjs.org/docs/2.x/directory-structure/components
+https://vuejs.org/v2/guide/list.html
+https://github.com/airbnb/javascript
+
+
+
+axios: {
+    common: {
+      Accept: "application/json",
+    },
+    post: {},
+  },
+
+
+  https://www.youtube.com/watch?v=gVb1g5PF76Y
+
+
+
+
+
+___________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________
