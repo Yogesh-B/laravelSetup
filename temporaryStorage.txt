@@ -52,20 +52,38 @@ https://www.npmjs.com/package/axios#axios-api
 https://nuxtjs.org/docs/2.x/directory-structure/components
 https://vuejs.org/v2/guide/list.html
 https://github.com/airbnb/javascript
+https://axios.nuxtjs.org/options/  
 
-
-
-axios: {
-    common: {
-      Accept: "application/json",
-    },
-    post: {},
-  },
 
 
   https://www.youtube.com/watch?v=gVb1g5PF76Y
 
 
+<script>
+export default {
+  //get
+  async asyncData({ $axios, xyz }) {
+    xyz = await $axios.$get("http://127.0.0.1:8000/.../../..........");
+
+    return { xyz };
+  },
+
+
+
+//post
+async asyncData({ $axios }) {
+    const xyz1 = await $axios
+      .$post("http://127.0.0.1:8000/api/v1/register", {
+        name: "theName(INFORM)",
+        email: "w2@qwe.com",
+        position: "thePos(INFORM)",
+      })
+      .then((response) => {
+        return response;
+      });
+
+    return xyz1;
+  },
 
 
 
