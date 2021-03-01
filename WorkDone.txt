@@ -508,16 +508,3 @@ ________________________________________________________________________________
 
 
 _______________________________________________________________________________________________________________________________________________
-
-
-..we can make a form for candidate to register them selves,(using candidate_api)
-	1.home made form
-	2.google form data transfered to our server using API
-	3.
-..after that HR can approve candidate , that will initiate the process(using initiate_candidacy{which is remaining to build})
-	
-
-..initiate_candidate issue
-	..create migration for candidate table's  structure change	
-	..create initiate_api
-	..connect to form
