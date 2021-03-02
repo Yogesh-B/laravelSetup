@@ -2,13 +2,11 @@
 //Mar + 
 _______________________________________________________________________________________________________________________________________________
 #01/03/2021
-..transfer vue code to store files
-..
-
-
-
-
+..transfer vue code to store files 
 _______________________________________________________________________________________________________________________________________________
+#02/03/2021
+..reverted back post code to vue file
+..form edited ... post code moved to actions and success/error message added
 
 
 
@@ -42,3 +40,8 @@ ________________________________________________________________________________
 ..rename  initiate_candidate to initiate_candidacy
 ..rename register to candidacy in URL
 ..new api for in candidacy get list with relationship and resource
+
+
+
+..move to store with error, success, api_prefix
+..api of candidacy get
