@@ -53,10 +53,12 @@ https://nuxtjs.org/docs/2.x/directory-structure/components
 https://vuejs.org/v2/guide/list.html
 https://github.com/airbnb/javascript
 https://axios.nuxtjs.org/options/  
-
+https://laravel.com/docs/8.x/eloquent-relationships#one-to-many   //relations
 
 
   https://www.youtube.com/watch?v=gVb1g5PF76Y
+
+___________________________________________________________________________________________________________________________
 
 
 <script>
@@ -212,8 +214,7 @@ ________________________________________________________________________________
 
 
 
-
-
+___________________________________________________________________________________________________________________________
 
 
 

@@ -7,7 +7,7 @@ ________________________________________________________________________________
 #02/03/2021
 ..reverted back post code to vue file
 ..form edited ... post code moved to actions and success/error message added
-
+..initiate candidate api list api started
 
 
 
