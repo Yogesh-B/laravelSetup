@@ -8,14 +8,15 @@ ________________________________________________________________________________
 ..reverted back post code to vue file
 ..form edited ... post code moved to actions and success/error message added
 ..initiate candidate api list api started
-
-
+_______________________________________________________________________________________________________________________________________________
+#03/03/2021
+.."do not code what you don't understand🧐"
+.."implement while learning🙄"
+..formData made to JSON
 
 
 
 _______________________________________________________________________________________________________________________________________________
-
-
 
 
 
@@ -45,3 +46,9 @@ ________________________________________________________________________________
 
 ..move to store with error, success, api_prefix
 ..api of candidacy get
+..json/array JS
+
+
+//computed ? why?
+//error in state? why?
+//candidate to candidacy relationship, candidacy to candidate relationship

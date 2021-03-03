@@ -106,6 +106,21 @@ async asyncData({ $axios }) {
 
 
 
+
+//action.js 3/3/21
+     {
+         name: data.name,
+         email: data.email,
+         contact_no: data.contact_no,
+         education: data.education,
+         college: data.college,
+         experience: data.experience,
+         last_company: data.last_company,
+         position: data.position,
+       })
+
+
+
 ___________________________________________________________________________________________________________________________
 //naman get candidacy list response structure
 
