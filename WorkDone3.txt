@@ -8,45 +8,33 @@ ________________________________________________________________________________
 ..reverted back post code to vue file
 ..form edited ... post code moved to actions and success/error message added
 ..initiate candidate api list api started
+	..inactive old record when it is updated before assigning a stage.
+
 _______________________________________________________________________________________________________________________________________________
 #03/03/2021
 .."do not code what you don't understand🧐"
+.."do not make changes just because I said do this way, If you don't understand even after I explain and I tell you #JustDoThisWay then only do that. 🤔👍"
 .."implement while learning🙄"
 ..formData made to JSON
-
-
-
-_______________________________________________________________________________________________________________________________________________
-
-
-
-
-
-_______________________________________________________________________________________________________________________________________________
-
-
-..we can make a form for candidate to register them selves,(using candidate_api)
-	1.home made form
-	2.google form data transfered to our server using API
-	3.
-..after that HR can approve candidate , that will initiate the process(using initiate_candidacy{which is remaining to build})
-	
-
-..initiate_candidate issue
-	..create migration for candidate table's  structure change	
-	..create initiate_api
-	..connect to form
-
-..inactive old record when it is updated before assigning a stage.
-..rename  initiate_candidate to initiate_candidacy
 ..rename register to candidacy in URL
-..new api for in candidacy get list with relationship and resource
+_______________________________________________________________________________________________________________________________________________
+#04/03/2021
+..relationship added in candidacy model
+..new api for in candidacy get list with relationship and resource and api filter
 
 
 
-..move to store with error, success, api_prefix
-..api of candidacy get
-..json/array JS
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
+
+..rename  initiate_candidate to initiate_candidacy
+
+
 
 
 //computed ? why?

@@ -58,6 +58,8 @@ https://laravel.com/docs/8.x/eloquent-relationships#one-to-many   //relations
 
   https://www.youtube.com/watch?v=gVb1g5PF76Y
 
+  https://laravel-json-api.readthedocs.io/en/latest/fetching/sorting/
+
 ___________________________________________________________________________________________________________________________
 
 
@@ -231,6 +233,57 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________
 
+1. I need the api for listing candidacy with filter / pagination and sorting
+	 (i) API : /candidacies
+		Example of response data
+		Candidacies{[
+			candidacy1,
+			candidacy2,
+			..
+		]}
+	(ii) API : /candidacies?parameter1=abc&parameter2=xyz
+		Example of response data
+		Candidacies{[
+			candidacy1,
+			candidacy2,
+			..
+		]}	
+	(iii)API :/candidacies?page=2	
+		Example of response data
+		Candidacies :{[
+			candidacy1,
+			candidacy2,
+			..
+		]}
+		meta : {
+			pagination {
+				total: total number of records
+				pages : total number of pages
+				page : current page
+				limit : number of recored per page
+			}
+		}
+
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________
+
+
+
+
+
+___________________________________________________________________________________________________________________________
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________
 
 
 
