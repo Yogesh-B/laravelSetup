@@ -21,11 +21,11 @@ ________________________________________________________________________________
 #04/03/2021
 ..relationship added in candidacy model
 ..new api for in candidacy get list with relationship and resource and api filter
-
-
-
 _______________________________________________________________________________________________________________________________________________
-
+#05/03/2021
+..fixed data of form in UI
+	..fixed 
+..fixed filter of list API //filter,relation doneAPI
 
 
 
@@ -36,7 +36,14 @@ ________________________________________________________________________________
 
 
 
-
+//find out to reduce No of queries in CandidacyResource
 //computed ? why?
 //error in state? why?
 //candidate to candidacy relationship, candidacy to candidate relationship
+
+
+#test cases for nuxt form
+#test cases for store api
+#swagger for store api
+#test cases for list api
+#swagger for list api
