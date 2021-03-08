@@ -27,6 +27,22 @@ ________________________________________________________________________________
 	..fixed 
 ..fixed filter of list API //filter,relation doneAPI
 
+_______________________________________________________________________________________________________________________________________________
+#08/03/2021
+..candidacy API metadata insertion code updated
+(((
+	#TRIAL and ERROR
+	1.show me atleast three tries
+	2.give time to error that you can justify later,
+	then ask for help.
+
+	#ANALYSIS
+	1.at start set a goal 🎯
+	2.at end summaries total work done 🖊️
+	3.note down learnings🧐
+
+
+)))
 
 
 
