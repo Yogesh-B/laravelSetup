@@ -30,6 +30,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________
 #08/03/2021
 ..candidacy API metadata insertion code updated
+
 (((
 	#TRIAL and ERROR
 	1.show me atleast three tries
@@ -43,6 +44,10 @@ ________________________________________________________________________________
 
 	#HOW MUCH TO LEARN?
 	..read deeply what you actually need(XYZ), and also readout/skimm through the other stuff(ABC) given related to (XYZ) what you need.
+
+
+
+	###ASK BEFORE ANY MERGE.!!
 
 )))
 
