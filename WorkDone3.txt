@@ -51,6 +51,32 @@ ________________________________________________________________________________
 	###ASK BEFORE ANY MERGE.!!
 
 )))
+[[[
+#goal 8/3/21
+jest test cases and api test cases 
+
+#summary 
+two jest cases with minor ERROR
+
+#learnings
+too much time wasted in removing error(not doing trial-error in proper way)
+
+]]]
+_______________________________________________________________________________________________________________________________________________
+#09/03/2021
+..
+
+
+[[[
+#goal 9/3/21
+jest test case done, PR merge and POST api test cases + swagger   
+
+#summary 
+
+
+#learnings
+]]]
+
 
 
 
