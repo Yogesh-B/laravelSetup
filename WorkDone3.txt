@@ -64,17 +64,16 @@ too much time wasted in removing error(not doing trial-error in proper way)
 ]]]
 _______________________________________________________________________________________________________________________________________________
 #09/03/2021
-..
-
-
+..jest cases on the way
 [[[
 #goal 9/3/21
 jest test case done, PR merge and POST api test cases + swagger   
 
 #summary 
-
+jest cases inprogress
 
 #learnings
+sometimes things(errors) are out of control[especially for newbies]
 ]]]
 
 
