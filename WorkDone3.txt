@@ -75,8 +75,23 @@ jest cases inprogress
 #learnings
 sometimes things(errors) are out of control[especially for newbies]
 ]]]
+_______________________________________________________________________________________________________________________________________________
+#10/03/2021
+..jest completed
+..API both test cases
+..swagger for get API
+
+[[[
+#goal 10/3/21
+POST and GET api (swagger + test cases)   
+
+#summary 
 
 
+#learnings
+
+
+]]]
 
 
 
