@@ -96,6 +96,17 @@ POST and GET api (swagger + test cases)
 
 
 _______________________________________________________________________________________________________________________________________________
+#11/03/2021
+..swagger for store api completed.
+..swaggers updated as per changes requested.
+
+..#lintingErrors #laravel #php 😑
+..#jwtErrors :( :( :( very bad
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
 
 ..rename  initiate_candidate to initiate_candidacy
 
