@@ -86,10 +86,10 @@ ________________________________________________________________________________
 POST and GET api (swagger + test cases)   
 
 #summary 
-
+store api test swagger remaining
 
 #learnings
-
+it is good to take help from others when you cannot solve a problem.
 
 ]]]
 
@@ -103,8 +103,34 @@ ________________________________________________________________________________
 ..#lintingErrors #laravel #php 😑
 ..#jwtErrors :( :( :( very bad
 
+[[[
+#goal 11/3/21
+get PRs merged  ,
+start working on stage assignment APIs
 
+#summary 
+some changes done, some remaining(because of #jwt)
 
+#learnings
+when others develop something then understand it from them to save time.
+
+]]]
+
+_______________________________________________________________________________________________________________________________________________
+#12/03/2021
+..linting errors solved
+..candidacy resource ..candidate_metadata
+..candidacy controller APIs code improvement
+..candidate API,test cases changed for new structure
+..all test fix, all lint fix
+..#MergedToDevelop  #DroneSuccess #initiate_candidate_api
+
+#summary
+	..second branch remains to merge
+
+(((
+	first write code that works, than reduce logically.
+)))
 
 _______________________________________________________________________________________________________________________________________________
 
