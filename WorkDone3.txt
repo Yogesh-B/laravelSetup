@@ -133,6 +133,19 @@ ________________________________________________________________________________
 )))
 
 _______________________________________________________________________________________________________________________________________________
+#17/03/2021
+..register vue completed with changes
+
+
+(((
+	frontend meeting
+	1.understand dataflow flow of language/framework so that debugging becomes easy.  //lifecycle of vue and nuxt
+	2.ask when you don't understand, e.g.don't spend whole day in solving a error, ask someone so that time is saved!⚡️
+	3.remeber the mistakes you have done and DO NOT REPEAT THE SAME.
+
+)))
+
+_______________________________________________________________________________________________________________________________________________
 
 ..rename  initiate_candidate to initiate_candidacy
 
@@ -149,3 +162,8 @@ ________________________________________________________________________________
 #swagger for store api
 #test cases for list api
 #swagger for list api
+
+
+..response tobe changed
+..error try with data
+#..why axios async and await
