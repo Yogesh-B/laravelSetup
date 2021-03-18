@@ -146,24 +146,29 @@ ________________________________________________________________________________
 )))
 
 _______________________________________________________________________________________________________________________________________________
-
-..rename  initiate_candidate to initiate_candidacy
-
-
+#18/03/2021
+..UI PR merged
+..pgsql setup and errors solve of migration
+..
+(((
+	..while creating migration take into considration the data that will get updated.  database might be empty or may have data.
+	..consider cases..new setup and current running deployment.
+)))
+...candidacy metadata field added
+...resource changed
+_______________________________________________________________________________________________________________________________________________
 
 //find out to reduce No of queries in CandidacyResource
-//computed ? why?
-//error in state? why?
-//candidate to candidacy relationship, candidacy to candidate relationship
 
 
-#test cases for nuxt form
-#test cases for store api
-#swagger for store api
-#test cases for list api
-#swagger for list api
+________________________________________________________________________________________________________________________________________________
 
 
-..response tobe changed
-..error try with data
-#..why axios async and await
+
+
+
+
+
+
+
+
