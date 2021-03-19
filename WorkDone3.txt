@@ -157,15 +157,27 @@ ________________________________________________________________________________
 ...candidacy metadata field added
 ...resource changed
 _______________________________________________________________________________________________________________________________________________
+#19/03/2021
+..resource and swagger changes for candidacy
+..candidacy resource and swagger changes
+
+
+_______________________________________________________________________________________________________________________________________________
 
 //find out to reduce No of queries in CandidacyResource
 
 
 ________________________________________________________________________________________________________________________________________________
 
+..API changes, if required...metadata
+..test cases if required...metadata
+..swagger metadata
 
 
-
+..candidate swagger changes//to resource also in candidacy (see Naman's code)
+..candidacy.....candidate_metadata as a whole candidate....see Nirav's code  //  remove Nirav's file and change all code 
+..move candidate metadata updation code to candidate Model
+..check test cases for the same 
 
 
 
