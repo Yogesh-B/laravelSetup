@@ -163,6 +163,15 @@ ________________________________________________________________________________
 
 
 _______________________________________________________________________________________________________________________________________________
+#22/03/2021
+..candidate metadata updation code moved to Candidate:: 
+..swagger of candidacy is updated in resource
+..candidate and candidacy swagger moved to resource
+..candidacy factory metadata added
+..candidacy and candidate test cases changes for show API
+..API filter "active" set default, advancedFilter for name remaining// inactive filter not working
+
+_______________________________________________________________________________________________________________________________________________
 
 //find out to reduce No of queries in CandidacyResource
 
@@ -178,6 +187,9 @@ ________________________________________________________________________________
 ..candidacy.....candidate_metadata as a whole candidate....see Nirav's code  //  remove Nirav's file and change all code 
 ..move candidate metadata updation code to candidate Model
 ..check test cases for the same 
+
+
+
 
 
 
