@@ -172,21 +172,26 @@ ________________________________________________________________________________
 ..API filter "active" set default, advancedFilter for name remaining// inactive filter not working
 
 _______________________________________________________________________________________________________________________________________________
+#23/03/2021
+..advanced filter for name
+..add swagger for filter parameters
+..400,500 error response to controller
+..basic filter fixes, advance filter in progress(not being applied)
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
 
 //find out to reduce No of queries in CandidacyResource
 
 
 ________________________________________________________________________________________________________________________________________________
 
-..API changes, if required...metadata
-..test cases if required...metadata
-..swagger metadata
 
 
-..candidate swagger changes//to resource also in candidacy (see Naman's code)
-..candidacy.....candidate_metadata as a whole candidate....see Nirav's code  //  remove Nirav's file and change all code 
-..move candidate metadata updation code to candidate Model
-..check test cases for the same 
+
+
 
 
 
