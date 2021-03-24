@@ -177,16 +177,28 @@ ________________________________________________________________________________
 ..add swagger for filter parameters
 ..400,500 error response to controller
 ..basic filter fixes, advance filter in progress(not being applied)
+(((
+	..when you cannot figure out problem on google or by debugging, do a syntax check.😅
+)))
+_______________________________________________________________________________________________________________________________________________
+#24/03/2021
+..Advance filter done
+..candidate request parameter setting code in candidate model
+(((
+	..write comments professionally.🧐
+)))
+..PR merged🙂
 
-
-
-
+..
 _______________________________________________________________________________________________________________________________________________
 
 //find out to reduce No of queries in CandidacyResource
-
+###Procedure of debugging //combine syntax&local&googleSearch effectively  
 
 ________________________________________________________________________________________________________________________________________________
+
+
+..new test cases for filters
 
 
 
