@@ -186,20 +186,24 @@ ________________________________________________________________________________
 ..candidate request parameter setting code in candidate model
 (((
 	..write comments professionally.🧐
+	..naming convention should be understandable.//meeting
 )))
 ..PR merged🙂
 
 ..
 _______________________________________________________________________________________________________________________________________________
+#25/03/2021
+..created two common functions and applied in stage assignment API
+..started swagger for it
 
-//find out to reduce No of queries in CandidacyResource
+_______________________________________________________________________________________________________________________________________________
+
 ###Procedure of debugging //combine syntax&local&googleSearch effectively  
 
 ________________________________________________________________________________________________________________________________________________
 
 
-..new test cases for filters
-
+..rename branch feature/feature to feature/  in remote
 
 
 
