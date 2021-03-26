@@ -197,15 +197,25 @@ ________________________________________________________________________________
 ..started swagger for it
 
 _______________________________________________________________________________________________________________________________________________
+#26/03/2021
+..swagger of stage assignement API done
+..test cases for stage assignement API done
+(((
+	..check whether it exists, e.g. database retrieved records.
+	..organise apis logically, do not make new controllers if not neccessary.
+)))
+#MergedToDevelop
+..user API done// test case& swagger remains
+
+
+_______________________________________________________________________________________________________________________________________________
 
 ###Procedure of debugging //combine syntax&local&googleSearch effectively  
 
 ________________________________________________________________________________________________________________________________________________
+..candidate and stage controllers do not have swagger flexible
 
-
-..rename branch feature/feature to feature/  in remote
-
-
+...user::find()///make if conditions where ever required
 
 
 
