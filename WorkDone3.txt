@@ -206,6 +206,19 @@ ________________________________________________________________________________
 )))
 #MergedToDevelop
 ..user API done// test case& swagger remains
+_______________________________________________________________________________________________________________________________________________
+#30/03/2021
+..
+..test cases for user api
+..swagger for user api
+(((
+	..Request is only related to Controller. Do not use it in model.
+	..make snake case in controller (for json key)
+	..keep in mind existing and new data while working in database related stuff.
+)))
+
+
+..candidacy close API+test cases+ swagger done
 
 
 _______________________________________________________________________________________________________________________________________________
@@ -214,10 +227,10 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 ..candidate and stage controllers do not have swagger flexible
+..candidacy history can have relation on candidacy
+..candidate model common function Request class tobe removed
 
-...user::find()///make if conditions where ever required
-
-
+history code moved to controller and candidacy code updated
 
 
 
