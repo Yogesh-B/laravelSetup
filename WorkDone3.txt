@@ -219,18 +219,42 @@ ________________________________________________________________________________
 
 
 ..candidacy close API+test cases+ swagger done
-
+_______________________________________________________________________________________________________________________________________________
+#31/03/2021
+..candidacy close API code improvement
+#MergedToDevelop #candidacyStageAssignment
+(((
+	..communicate with front dev properly.(Actually we did, but forget a few end points to communicate😅)
+)))
+..review done ...candidacyCloseApi
+..started history list api
 
 _______________________________________________________________________________________________________________________________________________
-
+###process of planning an API //things to consider from DB side 
 ###Procedure of debugging //combine syntax&local&googleSearch effectively  
-
-________________________________________________________________________________________________________________________________________________
+###we are focusing on doing, but we should on learning.
+..candidate passed which stage and not passed which stage??how?? what changes???🤔🧐
 ..candidate and stage controllers do not have swagger flexible
 ..candidacy history can have relation on candidacy
-..candidate model common function Request class tobe removed
+..candidate model common function Request class tobe removed and name to be changed
 
-history code moved to controller and candidacy code updated
+..common function for stage assign/close??
+..why json_encode???
+
+
+
+#close stage
+2.history new entry
+1.candidacy metadata as per history
+
+//status only should work
+
+....stage can be close via......
+1.UI
+	..a simple url call
+2.Another simple process
+	..a call which can have status
+
 
 
 
