@@ -1,0 +1,65 @@
+
+//Apr + 
+_______________________________________________________________________________________________________________________________________________
+#01/04/2021
+..history API and test cases done
+(((
+	..where ever you are working, you should know database structure, flow of project.
+)))
+..candidacy close API ,changes,changes,changes😑.
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
+###process of planning an API //things to consider from DB side 
+###Procedure of debugging //combine syntax&local&googleSearch effectively  
+###we are focusing on doing, but we should on learning.
+..candidate passed which stage and not passed which stage??how?? what changes???🤔🧐
+..candidate and stage controllers do not have swagger flexible
+..candidacy history can have relation on candidacy
+..candidate model common function Request class tobe removed and name to be changed
+..every controller has $http_code var, that can be done directly.
+..common function for stage assign/close??
+..why json_encode???
+
+
+
+#close stage
+2.history new entry
+1.candidacy metadata as per history
+
+//status only should work
+
+....stage can be close via......
+1.UI
+	..a simple url call
+2.Another simple process
+	..a call which can have status
+
+____________________________________#####______________________________________
+..history API	
+	..get API
+	..filters
+		..feedbacks
+		..stages
+		..candidate
+		..candidacy
+
+
+
+
+test cases for closing changes
+swagger for closing changes
+
+
+
+
+
