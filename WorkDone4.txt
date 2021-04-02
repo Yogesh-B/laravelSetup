@@ -5,10 +5,12 @@ ________________________________________________________________________________
 ..history API and test cases done
 (((
 	..where ever you are working, you should know database structure, flow of project.
+	..where json key is stored, make it snake case(so That json do not have any problem in future.).
 )))
 ..candidacy close API ,changes,changes,changes😑.
 _______________________________________________________________________________________________________________________________________________
-
+#02/04/2021
+..Candidacy close and History List ... #MergedToDevelop
 
 
 
@@ -28,38 +30,34 @@ ________________________________________________________________________________
 ..candidate model common function Request class tobe removed and name to be changed
 ..every controller has $http_code var, that can be done directly.
 ..common function for stage assign/close??
-..why json_encode???
+..why json_encode???//controller
+..in API test cases, check `all` updated fields from database.
+..improvements in stage assignment/close.// who has assigned and whom? //default text started// actor name // assignee name
+	..created.. who->loggedIn, whome->assiengee_key(manually for interview, other empty)
+	..started.. who->loggedIn, whome->can not be defined()
+	..completed.. who->loggedIn, whome->can not be defined()
+..history resource...add created_at //metadata(rename)//actor(integer,rename) 
 
 
 
-#close stage
+
+
+
+#close stage API
 2.history new entry
 1.candidacy metadata as per history
-
-//status only should work
-
-....stage can be close via......
-1.UI
-	..a simple url call
-2.Another simple process
-	..a call which can have status
-
-____________________________________#####______________________________________
-..history API	
-	..get API
-	..filters
-		..feedbacks
-		..stages
-		..candidate
-		..candidacy
+..common function for candidacy metadata
+#close stage Test cases & Swagger
 
 
 
+#stage assignment
+..created
 
-test cases for closing changes
-swagger for closing changes
+#
+..started
 
-
-
+#close
+..completed
 
 
