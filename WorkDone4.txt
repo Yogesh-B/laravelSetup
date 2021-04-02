@@ -49,15 +49,7 @@ ________________________________________________________________________________
 ..common function for candidacy metadata
 #close stage Test cases & Swagger
 
-
-
-#stage assignment
-..created
-
-#
-..started
-
-#close
-..completed
-
+..history changes
+..stage assignment changes
+..stage close 
 
