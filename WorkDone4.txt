@@ -11,8 +11,17 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________
 #02/04/2021
 ..Candidacy close and History List ... #MergedToDevelop
+_______________________________________________________________________________________________________________________________________________
+#05/04/2021
+..History Model,migration,factory changes for metadata and actor fields
+..History controller API,swagger,test cases changed
+..stage assignment and candidacy close APIs,swagger and test cases changed 
 
 
+(((
+	..consider existing data of database while creating migration.
+
+)))
 
 _______________________________________________________________________________________________________________________________________________
 
@@ -31,11 +40,8 @@ ________________________________________________________________________________
 ..every controller has $http_code var, that can be done directly.
 ..common function for stage assign/close??
 ..why json_encode???//controller
+**..hash IDs everywhere//observer
 ..in API test cases, check `all` updated fields from database.
-..improvements in stage assignment/close.// who has assigned and whom? //default text started// actor name // assignee name
-	..created.. who->loggedIn, whome->assiengee_key(manually for interview, other empty)
-	..started.. who->loggedIn, whome->can not be defined()
-	..completed.. who->loggedIn, whome->can not be defined()
 ..history resource...add created_at //metadata(rename)//actor(integer,rename)// reverse in response(latest first) 
 
 
@@ -49,7 +55,15 @@ ________________________________________________________________________________
 ..common function for candidacy metadata
 #close stage Test cases & Swagger
 
-..history changes
-..stage assignment changes
-..stage close 
+_________________________________________________________________________________________________________________________
 
+
+
+-API for stage close..
+	..common functions
+	..create new API
+
+
+..common things...
+1.entry in history
+2.update candidacy metadata
