@@ -16,7 +16,7 @@ ________________________________________________________________________________
 ..History Model,migration,factory changes for metadata and actor fields
 ..History controller API,swagger,test cases changed
 ..stage assignment and candidacy close APIs,swagger and test cases changed 
-
+.stage close started
 
 (((
 	..consider existing data of database while creating migration.
