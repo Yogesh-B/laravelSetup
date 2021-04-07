@@ -22,6 +22,18 @@ ________________________________________________________________________________
 	..consider existing data of database while creating migration.
 
 )))
+_______________________________________________________________________________________________________________________________________________
+#06/04/2021
+..close stage API done
+..changes in stage assignment for assignee
+..midleware for actor.key #TemporarySolution😅
+
+
+(((
+	..are you doing tasks without understanding it?!
+)))
+
+
 
 _______________________________________________________________________________________________________________________________________________
 
@@ -50,20 +62,10 @@ ________________________________________________________________________________
 
 
 #close stage API
-2.history new entry
-1.candidacy metadata as per history
-..common function for candidacy metadata
 #close stage Test cases & Swagger
 
 _________________________________________________________________________________________________________________________
 
-
-
--API for stage close..
-	..common functions
-	..create new API
-
-
-..common things...
-1.entry in history
-2.update candidacy metadata
+assignee_key in request.........assignee name and key in metadata
+random user for actor.
+issue while closing candidacy has no metadata in it.
