@@ -28,10 +28,16 @@ ________________________________________________________________________________
 ..changes in stage assignment for assignee
 ..midleware for actor.key #TemporarySolution😅
 
-
 (((
 	..are you doing tasks without understanding it?!
 )))
+_______________________________________________________________________________________________________________________________________________
+#07/04/2021
+..Changes of metadata empty(common function) & user logged in & required field of user 
+..common function to update candidacy stage metadata
+..common function to create history from request
+..test cases and swagger for stage close
+
 
 
 
@@ -45,6 +51,7 @@ ________________________________________________________________________________
 ###process of planning an API //things to consider from DB side 
 ###Procedure of debugging //combine syntax&local&googleSearch effectively  
 ###we are focusing on doing, but we should on learning.
+..api/v1 in swagger to be removed
 ..candidate passed which stage and not passed which stage??how?? what changes???🤔🧐
 ..candidate and stage controllers do not have swagger flexible
 ..candidacy history can have relation on candidacy
@@ -54,7 +61,6 @@ ________________________________________________________________________________
 ..why json_encode???//controller
 **..hash IDs everywhere//observer
 ..in API test cases, check `all` updated fields from database.
-..history resource...add created_at //metadata(rename)//actor(integer,rename)// reverse in response(latest first) 
 
 
 
