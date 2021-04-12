@@ -48,13 +48,17 @@ ________________________________________________________________________________
 #09/10/2021
 ..#MergedToDevelop(stage_close_api)
 ..hash key observer
-
-
-
+(((
+	...you should know what is happening in project. Anyone can give you suggestions and you should also to them if needed.
+)))
 _______________________________________________________________________________________________________________________________________________
+#12/04/2021
+..changes in middleware.
+..stage_name to key in assign Stage (API , test cases, swagger)
 
-
-
+{
+	in swagger how to mention required field only...which are actually required, and others as not required.???
+}
 
 _______________________________________________________________________________________________________________________________________________
 
@@ -73,10 +77,9 @@ ________________________________________________________________________________
 ..every controller has $http_code var, that can be done directly.
 ..common function for stage assign/close??
 ..why json_encode???//controller
-**..hash IDs everywhere//observer
 ..in API test cases, check `all` updated fields from database.
-
-
+..stage_name has stage_id now....do changes in UI accordingly
+..assignee_key not mandatory in coding challange
 
 
 
