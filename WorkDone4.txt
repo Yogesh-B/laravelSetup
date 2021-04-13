@@ -55,13 +55,17 @@ ________________________________________________________________________________
 #12/04/2021
 ..changes in middleware.
 ..stage_name to key in assign Stage (API , test cases, swagger)
+_______________________________________________________________________________________________________________________________________________
+#13/04/2021
+..#MergedToDevelop (hash key changes)
 
-{
-	in swagger how to mention required field only...which are actually required, and others as not required.???
-}
+(((
+	..keep your coding style same everywhere, so not to confuse new people who takes over afterwards.
+)))
+
+
 
 _______________________________________________________________________________________________________________________________________________
-
 
 
 
@@ -75,12 +79,10 @@ ________________________________________________________________________________
 ..candidacy history can have relation on candidacy
 ..candidate model common function Request class tobe removed and name to be changed
 ..every controller has $http_code var, that can be done directly.
-..common function for stage assign/close??
 ..why json_encode???//controller
 ..in API test cases, check `all` updated fields from database.
-..stage_name has stage_id now....do changes in UI accordingly
 ..assignee_key not mandatory in coding challange
-
+..
 
 
 
@@ -89,6 +91,27 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________
 
-assignee_key in request.........assignee name and key in metadata
-random user for actor.
 issue while closing candidacy has no metadata in it.
+
+
+
+______Questionair_Questions______
+..id
+..key
+..data 
+
+______Questionaire_Answers______
+..id
+..key
+..question_id //relation
+..candidacy_id
+..data //set null " _ no answer "
+
+
+
+
+
+1.logged in user/HR will select csv file  //upload via an API that will process and store it in database (UI and API to be created)
+2.from that file we can run a cron job to feed it to database/ a command can also be created by which we can feed it to database
+3.we can make index and/or show API.
+
