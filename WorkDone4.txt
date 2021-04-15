@@ -62,6 +62,18 @@ ________________________________________________________________________________
 (((
 	..keep your coding style same everywhere, so not to confuse new people who takes over afterwards.
 )))
+_______________________________________________________________________________________________________________________________________________
+#14/04/2021
+..some changes in stage close.
+..logout controller and swagger.
+
+
+(((
+	..you are not god, by just seeing problem you can not identify solution. Google is not god, it just can give some reference but you have to apply your knowledge to make it work.
+)))
+
+
+
 
 
 
@@ -69,7 +81,11 @@ ________________________________________________________________________________
 
 
 
+
 _______________________________________________________________________________________________________________________________________________
+(
+	#config changes ... env and config/l5-swagger changed url 
+)
 ###process of planning an API //things to consider from DB side 
 ###Procedure of debugging //combine syntax&local&googleSearch effectively  
 ###we are focusing on doing, but we should on learning.
@@ -80,9 +96,10 @@ ________________________________________________________________________________
 ..candidate model common function Request class tobe removed and name to be changed
 ..every controller has $http_code var, that can be done directly.
 ..why json_encode???//controller
+..when there is code type of assign stage but there is no entry in coding challange then? it should throw error that please add coding challange (Naman suggested)
+..same stage assigned twice bug.(Naman suggested)
 ..in API test cases, check `all` updated fields from database.
 ..assignee_key not mandatory in coding challange
-..
 
 
 
@@ -112,6 +129,5 @@ ______Questionaire_Answers______
 
 
 1.logged in user/HR will select csv file  //upload via an API that will process and store it in database (UI and API to be created)
-2.from that file we can run a cron job to feed it to database/ a command can also be created by which we can feed it to database
-3.we can make index and/or show API.
+2.we can make index and/or show API.  ( API for show and UI to show Q-A response of a candidate)
 
