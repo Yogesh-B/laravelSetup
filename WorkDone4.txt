@@ -71,13 +71,27 @@ ________________________________________________________________________________
 (((
 	..you are not god, by just seeing problem you can not identify solution. Google is not god, it just can give some reference but you have to apply your knowledge to make it work.
 )))
+_______________________________________________________________________________________________________________________________________________
+#15/04/2021
+..#MergedToDevelop (logout_api)
+..questionnaire table done (Model, Migration, Observer,# Factory, Seeder created)
+..stage fixes started
+_______________________________________________________________________________________________________________________________________________
+#16/04/2021
+..stage fixes done (metadata casts and some swagger changes)
+#MergedToDevelop (stage_api_fixes)
+..Questionnaire and submissions model,migration, factory, seeder, observer created
+#MergedToDevelop (questionnaire issue)
+..started Questionnaire API for CSV
+..created google form for getting feedback
 
-
-
-
-
+(((
+	..Be carefull while copying your own code to other part of project😅. (best approach...copy a code block(having 2-3 changes) at a time and make changes immediatetly. Because we might miss some changes.)
+)))
 
 _______________________________________________________________________________________________________________________________________________
+
+
 
 
 
@@ -100,7 +114,7 @@ ________________________________________________________________________________
 ..same stage assigned twice bug.(Naman suggested)
 ..in API test cases, check `all` updated fields from database.
 ..assignee_key not mandatory in coding challange
-
+..stage APIs responses needs to be as per convention(see candidacy responses) also pagination missing
 
 
 #close stage API
@@ -130,4 +144,40 @@ ______Questionaire_Answers______
 
 1.logged in user/HR will select csv file  //upload via an API that will process and store it in database (UI and API to be created)
 2.we can make index and/or show API.  ( API for show and UI to show Q-A response of a candidate)
+
+_______________________________________________________________________________________________________________________________________________
+#points of improvement
+	1.user should be redirected to thank you page/ or something else/  spam registration(like DDOS attack kind of) should be prevented	
+	2.Login should be Oauth
+	3.Apricot brand logo does not redirect to home page while we are listing candidacies
+	4.Sign out not working
+	
+
+
+
+#points of issue to be fixed
+	1.Name filter not working
+	2.Stage assignment not working/ API integration is remaining
+	3.feedback all things not working
+	4.history has some object thing that should be fixed
+	5.stage tab is not working
+	6.coding challage do not load coding challanges drom DB
+	7.save function after creating coding challange do not work
+
+
+
+	1.user name not showing at top
+	2.login page show show up like it is showed up in candidacy page...when unauthorized
+	3.detail ma java mate link in history
+	4.meta for stage while creating
+	5.
+_______________________________________________________________________________________________________________________________________________
+
+..Create any google form, import its csv as of now
+..There will be an option in google forms settings to get email address of the person who is filling the form, enable that
+..Flow will be like :
+	Based on that email address we will find candidate and its active candidacy
+
+
+
 
