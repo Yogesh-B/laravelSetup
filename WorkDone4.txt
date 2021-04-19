@@ -90,8 +90,13 @@ ________________________________________________________________________________
 )))
 
 _______________________________________________________________________________________________________________________________________________
+#19/04/2021
+..questionnaire submission api done (code improvement remains)
 
 
+(((
+	..write a working code, then optimize it.
+)))
 
 
 
@@ -151,7 +156,7 @@ ________________________________________________________________________________
 	2.Login should be Oauth
 	3.Apricot brand logo does not redirect to home page while we are listing candidacies
 	4.Sign out not working
-	
+	5. register form should be cleared and toast notif
 
 
 
@@ -163,7 +168,7 @@ ________________________________________________________________________________
 	5.stage tab is not working
 	6.coding challage do not load coding challanges drom DB
 	7.save function after creating coding challange do not work
-
+	8.submission changes 
 
 
 	1.user name not showing at top
@@ -171,6 +176,11 @@ ________________________________________________________________________________
 	3.detail ma java mate link in history
 	4.meta for stage while creating
 	5.
+
+
+
+	//candidacy new and then close
+	//
 _______________________________________________________________________________________________________________________________________________
 
 ..Create any google form, import its csv as of now
@@ -180,4 +190,6 @@ ________________________________________________________________________________
 
 
 
-
+//close candidacy bug
+//register
+//metadata changes in submission
