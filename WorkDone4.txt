@@ -97,6 +97,18 @@ ________________________________________________________________________________
 (((
 	..write a working code, then optimize it.
 )))
+_______________________________________________________________________________________________________________________________________________
+#20/04/2021
+..updated CSV API and added code to create questionnaire
+
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
+
 
 
 
@@ -120,6 +132,7 @@ ________________________________________________________________________________
 ..in API test cases, check `all` updated fields from database.
 ..assignee_key not mandatory in coding challange
 ..stage APIs responses needs to be as per convention(see candidacy responses) also pagination missing
+..coding session link should not be accessible to other than the candidate like it was in hackerrank
 
 
 #close stage API
@@ -180,7 +193,7 @@ ________________________________________________________________________________
 
 
 	//candidacy new and then close
-	//
+	//if only candidate and no candidacy in between record, then it will cause error//CSV upload
 _______________________________________________________________________________________________________________________________________________
 
 ..Create any google form, import its csv as of now
