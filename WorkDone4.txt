@@ -92,14 +92,26 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________
 #19/04/2021
 ..questionnaire submission api done (code improvement remains)
+<<<<<<< HEAD
 
 
 (((
 	..write a working code, then optimize it.
+=======
+(((
+	..write a working code, then optimize it.
+	..think about reducing redundancy as well as UI part while designing DB.💯
+>>>>>>> 7c7cbd1 (21/4/21)
 )))
 _______________________________________________________________________________________________________________________________________________
 #20/04/2021
 ..updated CSV API and added code to create questionnaire
+<<<<<<< HEAD
+=======
+..swagger added for CSV API
+..test cases for CSV API
+..
+>>>>>>> 7c7cbd1 (21/4/21)
 
 _______________________________________________________________________________________________________________________________________________
 
@@ -121,7 +133,11 @@ ________________________________________________________________________________
 ###Procedure of debugging //combine syntax&local&googleSearch effectively  
 ###we are focusing on doing, but we should on learning.
 ..api/v1 in swagger to be removed
+<<<<<<< HEAD
 ..candidate passed which stage and not passed which stage??how?? what changes???🤔🧐
+=======
+..candidate passed which stage and not passstorage/api-docs/api-docs.jsoned which stage??how?? what changes???🤔🧐
+>>>>>>> 7c7cbd1 (21/4/21)
 ..candidate and stage controllers do not have swagger flexible
 ..candidacy history can have relation on candidacy
 ..candidate model common function Request class tobe removed and name to be changed
@@ -142,6 +158,7 @@ ________________________________________________________________________________
 
 issue while closing candidacy has no metadata in it.
 
+<<<<<<< HEAD
 
 
 ______Questionair_Questions______
@@ -163,6 +180,8 @@ ______Questionaire_Answers______
 1.logged in user/HR will select csv file  //upload via an API that will process and store it in database (UI and API to be created)
 2.we can make index and/or show API.  ( API for show and UI to show Q-A response of a candidate)
 
+=======
+>>>>>>> 7c7cbd1 (21/4/21)
 _______________________________________________________________________________________________________________________________________________
 #points of improvement
 	1.user should be redirected to thank you page/ or something else/  spam registration(like DDOS attack kind of) should be prevented	
