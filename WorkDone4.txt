@@ -113,7 +113,8 @@ ________________________________________________________________________________
 ..stage assignment coding challenge bug fixed
 ..questionnairesubmission show API
 ..show api for que_submission done
-..
+..swagger done
+..test cases done
 
 
 _______________________________________________________________________________________________________________________________________________
@@ -196,3 +197,4 @@ ________________________________________________________________________________
 
 //register.....toast notif, clear, 
 //metadata changes in submission
+//unwanted coding_challenge factory used in que_submission test cases
