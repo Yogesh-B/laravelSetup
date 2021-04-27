@@ -120,6 +120,17 @@ ________________________________________________________________________________
 ..register UI fixes
 ..test case fix, added one
 _______________________________________________________________________________________________________________________________________________
+#27/04/2021
+..register vue width reduce and header added.
+..started job queue.
+(((
+	new concept to learn....feeling sleepy😴--->>>to implement....let's do it😎 
+	(so, if you want to have rollercoster ride of unknown errors, you should learn some new stuff or else you will not have any errors🙃😁)
+)))
+
+
+
+_______________________________________________________________________________________________________________________________________________
 
 
 
@@ -166,6 +177,7 @@ ________________________________________________________________________________
 	7.questSubmission controller can be just QuesController...
 	8.relations missing in many models // default metadata verify // nullable fields check
 	9.one query at start of CSV upload for loop for candidacy and another query in observer of queSubmission
+	10.register vue can have focus method
 
 #points of issue to be fixed
 	1.Name filter not working
@@ -199,3 +211,8 @@ ________________________________________________________________________________
 
 //register.....toast notif, clear, 
 //metadata changes in submission
+
+
+//laravel job..CSV?? 
+
+//what happens when normal queries are fired and queue is already running on database??
