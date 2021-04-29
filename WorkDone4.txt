@@ -124,13 +124,37 @@ ________________________________________________________________________________
 ..register vue width reduce and header added.
 ..started job queue.
 (((
-	new concept to learn....feeling sleepy😴--->>>to implement....let's do it😎 
+	..new concept to learn....feeling sleepy😴--->>>to implement....let's do it😎 
 	(so, if you want to have rollercoster ride of unknown errors, you should learn some new stuff or else you will not have any errors🙃😁)
+	..why didn't you searched the web for solution? give a web search even if you know the error.
+)))
+_______________________________________________________________________________________________________________________________________________
+#28/04/2021
+..job done
+..test cases added (in-progress)
+_______________________________________________________________________________________________________________________________________________
+#29/04/2021
+..
+
+
+
+(((
+	..If you are not getting idea for solution of a problem, then have a sleep, you will get it.🤔💯 (just chill and do not worry about problem because hanged PC cannot do anything...restart it.)
 )))
 
 
 
+
+
 _______________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
+
 
 
 
@@ -178,6 +202,9 @@ ________________________________________________________________________________
 	8.relations missing in many models // default metadata verify // nullable fields check
 	9.one query at start of CSV upload for loop for candidacy and another query in observer of queSubmission
 	10.register vue can have focus method
+	11.migrat:refresh failures because of not-null constraints.
+	12.CSV queue is using array which is stored in database, instead use filepath for better performance and database effeciency.
+	13.CSV upload queue started notification only, completed notif not given.  
 
 #points of issue to be fixed
 	1.Name filter not working
