@@ -138,13 +138,9 @@ ________________________________________________________________________________
 (((
 	..If you are not getting idea for solution of a problem, then have a sleep, you will get it.🤔💯 (just chill and do not worry about problem because hanged PC cannot do anything...restart it.)
 )))
-
-
-
-
-
 _______________________________________________________________________________________________________________________________________________
-
+#30/04/2021
+..
 
 
 
@@ -172,8 +168,8 @@ ________________________________________________________________________________
 ..every controller has $http_code var, that can be done directly.
 ..why json_encode???//controller
 ..when there is code type of assign stage but there is no entry in coding challange then? it should throw error that please add coding challange (Naman suggested)
-..same stage assigned twice bug.(Naman suggested)
-..in API test cases, check `all` updated fields from database.
+..same stage can be assigned twice bug.(Naman suggested)
+..in API test cases, check `all` updated fields from "database".
 ..assignee_key not mandatory in coding challange
 ..stage APIs responses needs to be as per convention(see candidacy responses) also pagination missing
 ..coding session link should not be accessible to other than the candidate like it was in hackerrank
@@ -202,6 +198,9 @@ ________________________________________________________________________________
 	11.migrat:refresh failures because of not-null constraints.
 	12.CSV queue is using array which is stored in database, instead use filepath for better performance and database effeciency.
 	13.CSV upload queue started notification only, completed notif not given.  
+	14.history common function second loop, first block accepts only array, string would throw error,(make that part like if the request is given then it would be set as per params, if request and params not given then it would set from extra//1.request2.extra  no append.)
+	15.
+
 
 #points of issue to be fixed
 	1.Name filter not working
