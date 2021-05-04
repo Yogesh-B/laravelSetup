@@ -142,13 +142,9 @@ ________________________________________________________________________________
 #30/04/2021
 ..questionnaire csv job changes
 ..feedback api changes
-
-
-
-
-
 _______________________________________________________________________________________________________________________________________________
-
+#04/05/2021
+..
 
 
 
@@ -233,10 +229,13 @@ ________________________________________________________________________________
 
 
 
-//register.....toast notif, clear, 
 //metadata changes in submission
 
-
-//laravel job..CSV?? 
-
-//what happens when normal queries are fired and queue is already running on database??
+..linting setup discuss
+..stage gui fixing
+..questionnaire table new column last_upload
+	..assignStage....type=questionnaire	
+		..create if not exists
+		..url and urlHash in metadata of questionnaire, question = {}
+	..Job($data, $questionnaire_key)
+		..show each records success and failure in last_upload
