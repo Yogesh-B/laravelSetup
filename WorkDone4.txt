@@ -239,3 +239,5 @@ ________________________________________________________________________________
 		..url and urlHash in metadata of questionnaire, question = {}
 	..Job($data, $questionnaire_key)
 		..show each records success and failure in last_upload
+
+//candidate register again issue.
