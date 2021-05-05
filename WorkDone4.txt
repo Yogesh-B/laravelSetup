@@ -148,7 +148,6 @@ ________________________________________________________________________________
 ..research on webhook on google forms
 _______________________________________________________________________________________________________________________________________________
 #05/05/2021
-..got form webhook URL
 ..webhook done... remaining to make API and integrate
 (((
 	..when it gives errors means you are a newbie, but when it does not give error does not mean you are an expert🤔(code should work as expected and last thing, it should be effecient😄)
