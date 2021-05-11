@@ -99,16 +99,11 @@ ________________________________________________________________________________
     1.candidacy new and then close
     2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
     3.assigned to -> me filter in Candidacy?? or History??...remaining to implement
-    4.webhook won't be able to access API as it won't have token, we can give candidacy key to candidate that can be passed to webhook in URL.
-	5.
+	4.
 
 
 _______________________________________________________________________________________________________________________________________________
 
-..Create any google form, import its csv as of now
-..There will be an option in google forms settings to get email address of the person who is filling the form, enable that
-..Flow will be like :
-	Based on that email address we will find candidate and its active candidacy
 
 
 
