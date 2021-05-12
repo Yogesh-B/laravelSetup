@@ -24,8 +24,9 @@ ________________________________________________________________________________
 ..added instructions for form webhook
 ..show API,test case, swagger ...que_sub
 _______________________________________________________________________________________________________________________________________________
-
-
+#12/05/2021
+..(Conclusion)CandidacyHistory -> `createFromData` function is not needed.
+..
 
 
 
@@ -39,7 +40,6 @@ ________________________________________________________________________________
 ###we are focusing on doing, but we should on learning.
 ..api/v1 in swagger to be removed
 ..candidate passed which stage and not passed which stage??how?? what changes???🤔🧐
-..candidate and stage controllers do not have swagger flexible
 ..candidacy history can have relation on candidacy
 ..candidate model common function Request class tobe removed and name to be changed
 ..every controller has $http_code var, that can be done directly.
@@ -93,7 +93,7 @@ ________________________________________________________________________________
 	14.history common function second loop, first block accepts only array, string would throw error,(make that part like if the request is given then it would be set as per params, if request and params not given then it would set from extra//1.request2.extra  no append.)
 	15.middleware to check candidacy is inactive like coding-session middleware
 	16.auth user called two times....once in questionnaire store and another in observer//same for candidacy find
-
+	17.que_submission check stage assigned?? do not accept response for those who are not assigned.
 
 #points of issue to be fixed
     1.candidacy new and then close
@@ -120,4 +120,13 @@ ________________________________________________________________________________
 
 
 
+//what should be done to stage while questionnaire submitted??
 
+
+##...stage assignment...
+	.questionnaire....link
+	.
+
+..que_submission
+	..url of response in metadata
+	..remove questionnaire addition code
