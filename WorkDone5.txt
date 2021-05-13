@@ -27,7 +27,22 @@ ________________________________________________________________________________
 #12/05/2021
 ..(Conclusion)CandidacyHistory -> `createFromData` function is not needed.
 ..Changes in stage assignment questionnaire code added
+_______________________________________________________________________________________________________________________________________________
+#13/05/2021
+..test cases added for questionnaire type in stage assignment
+..removed code of creating questionnaire from que_sub controller and test cases.
+..found method for response URL
 
+
+_______________________________________________________________________________________________________________________________________________
+
+
+
+_______________________________________________________________________________________________________________________________________________
+
+
+
+_______________________________________________________________________________________________________________________________________________
 
 
 
@@ -94,7 +109,7 @@ ________________________________________________________________________________
 	15.middleware to check candidacy is inactive like coding-session middleware
 	16.auth user called two times....once in questionnaire store and another in observer//same for candidacy find
 	17.que_submission check stage assigned?? do not accept response for those who are not assigned.
-
+	18.stage test cases extra payload variables to be removed
 #points of issue to be fixed
     1.candidacy new and then close
     2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
@@ -124,9 +139,14 @@ ________________________________________________________________________________
 
 
 ##...stage assignment...
-	.questionnaire....link
+	.questionnaire....link    done
 	.
 
 ..que_submission
 	..url of response in metadata
 	..remove questionnaire addition code
+
+
+
+
+
