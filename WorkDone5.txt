@@ -22,7 +22,7 @@ ________________________________________________________________________________
 #11/05/2021
 ..Google Form webhook totally working
 ..added instructions for form webhook
-..show API,test case, swagger ...que_sub
+..show API,test case, swagger ...que_sub all done
 _______________________________________________________________________________________________________________________________________________
 #12/05/2021
 ..(Conclusion)CandidacyHistory -> `createFromData` function is not needed.
@@ -32,10 +32,10 @@ ________________________________________________________________________________
 ..test cases added for questionnaire type in stage assignment
 ..removed code of creating questionnaire from que_sub controller and test cases.
 ..found method for response URL
-
-
 _______________________________________________________________________________________________________________________________________________
-
+#14/05/2021
+..URL to key....controller/swagger/test
+..stage assignment questionnaire ..removed creation code
 
 
 _______________________________________________________________________________________________________________________________________________
@@ -138,15 +138,18 @@ ________________________________________________________________________________
 //what should be done to stage while questionnaire submitted??
 
 
-##...stage assignment...
-	.questionnaire....link    done
-	.
+...stage frontend.....
+	..when type=questionnaire then select from list
 
-..que_submission
-	..url of response in metadata
-	..remove questionnaire addition code
+...stage backend.....
+	...for type questionnaire insert key in metadata
 
 
 
+...make questionnaire index API .....make PR
 
 
+
+...assignStage....
+	...get questionnaire_key from stage metadata
+	...set the questionnaire_key in history metadata
