@@ -36,8 +36,8 @@ ________________________________________________________________________________
 #14/05/2021
 ..URL to key....controller/swagger/test
 ..stage assignment questionnaire ..removed creation code
-
-
+..instructions updated.
+..stage assignment ...que_key from metadata of Stage
 _______________________________________________________________________________________________________________________________________________
 
 
