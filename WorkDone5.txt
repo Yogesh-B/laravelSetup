@@ -39,6 +39,19 @@ ________________________________________________________________________________
 ..instructions updated.
 ..stage assignment ...que_key from metadata of Stage
 _______________________________________________________________________________________________________________________________________________
+#17/05/2021
+..merge conflict solved
+..questionnaire index api done
+..stage store fixes for questionnaire
+..
+
+
+_______________________________________________________________________________________________________________________________________________
+
+
+
+
+_______________________________________________________________________________________________________________________________________________
 
 
 
@@ -140,7 +153,11 @@ ________________________________________________________________________________
 
 ...stage frontend.....
 	..when type=questionnaire then select from list
-
+   
+   1.give stage name 
+   2.select type "questionnaire"
+   3.index api of questionnaire....select questionnaire key
+   4.pass data...
 ...stage backend.....
 	...for type questionnaire insert key in metadata
 
