@@ -48,10 +48,12 @@ ________________________________________________________________________________
 #21/05/2021
 ..seting up VM
 
-
 _______________________________________________________________________________________________________________________________________________
-
-
+#24/05/2021
+..migrate errors, DB setup, Token setup, 
+..stage store...validation added
+..questionnaire store api conflicts solved
+..(strange network issues while opening frontend)...in progress
 
 _______________________________________________________________________________________________________________________________________________
 
@@ -161,14 +163,7 @@ ________________________________________________________________________________
 	..update API also
 
 
-...make questionnaire index API .....make PR
+	//readme check
 
 
 
-...assignStage....
-	...get questionnaire_key from stage metadata
-	...set the questionnaire_key in history metadata
-
-
-/////// meeting 21.05.21
-...local environment same for all....linting
