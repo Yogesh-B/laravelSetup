@@ -61,6 +61,15 @@ ________________________________________________________________________________
 ..stage assignment questionnaire fix #MergedToDevelop
 ..stage store api changes #MergedToDevelop
 ..
+_______________________________________________________________________________________________________________________________________________
+#26/05/2021
+..completed stage add modal(minor issue remaining)
+_______________________________________________________________________________________________________________________________________________
+#27/05/21
+
+
+_______________________________________________________________________________________________________________________________________________
+
 
 
 _______________________________________________________________________________________________________________________________________________
@@ -127,11 +136,14 @@ ________________________________________________________________________________
 	16.auth user called two times....once in questionnaire store and another in observer//same for candidacy find
 	17.que_submission check stage assigned?? do not accept response for those who are not assigned.
 	18.stage test cases extra payload variables to be removed
+	19.factories/seeders should be changed so that we can directly seed and use front and back.
+	20.stages.vue line 124 to..do not direct access
 #points of issue to be fixed
     1.candidacy new and then close
     2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
     3.assigned to -> me filter in Candidacy?? or History??...remaining to implement
-	4.
+	4.___start creating stage select type and questionnaire then cancle it, again start creating ......editing..same stage type have changed to selected type
+	5.same as above for questionnaire
 
 
 _______________________________________________________________________________________________________________________________________________
@@ -174,3 +186,14 @@ ________________________________________________________________________________
 //meet
 ..stage create UI changes.....give option to select questionnaire when type is questionnaire
 ...173 + resume upload
+
+
+
+
+
+...stage update() --> type=questionnaire
+
+
+
+//nirav says in nextTick,resetModal
+//yogesh says in dataComponentTypeAdded,
