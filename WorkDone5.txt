@@ -66,7 +66,7 @@ ________________________________________________________________________________
 ..completed stage add modal(minor issue remaining)
 _______________________________________________________________________________________________________________________________________________
 #27/05/21
-
+..previouse questionnaire showing
 
 _______________________________________________________________________________________________________________________________________________
 
@@ -138,13 +138,13 @@ ________________________________________________________________________________
 	18.stage test cases extra payload variables to be removed
 	19.factories/seeders should be changed so that we can directly seed and use front and back.
 	20.stages.vue line 124 to..do not direct access
+	21.___not showing success message on successfull edit.
 #points of issue to be fixed
     1.candidacy new and then close
     2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
     3.assigned to -> me filter in Candidacy?? or History??...remaining to implement
 	4.___start creating stage select type and questionnaire then cancle it, again start creating ......editing..same stage type have changed to selected type
-	5.same as above for questionnaire
-
+	5.same as above for questionnaire (page reload on cancel)()
 
 _______________________________________________________________________________________________________________________________________________
 
