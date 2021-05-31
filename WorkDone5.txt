@@ -65,11 +65,17 @@ ________________________________________________________________________________
 #26/05/2021
 ..completed stage add modal(minor issue remaining)
 _______________________________________________________________________________________________________________________________________________
-#27/05/21
+#27/05/2021
 ..previouse questionnaire showing
+_______________________________________________________________________________________________________________________________________________
+#28/05/2021
+..All changes done ..bugs solved
+..
 
 _______________________________________________________________________________________________________________________________________________
 
+
+_______________________________________________________________________________________________________________________________________________
 
 
 _______________________________________________________________________________________________________________________________________________
@@ -138,7 +144,7 @@ ________________________________________________________________________________
 	18.stage test cases extra payload variables to be removed
 	19.factories/seeders should be changed so that we can directly seed and use front and back.
 	20.stages.vue line 124 to..do not direct access
-	21.___not showing success message on successfull edit.
+	21.___not showing success message on successfull edit/delete.
 #points of issue to be fixed
     1.candidacy new and then close
     2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
@@ -190,7 +196,9 @@ ________________________________________________________________________________
 
 
 
-
+..test cases for UI [[[Please note this, when you start working on test case , do this change also
+https://github.com/Improwised/apricot-2/blob/develop/web/store/actions.js#L76-L79, add condition, if metadata is not empty then only split the string.
+]]]
 ...stage update() --> type=questionnaire
 
 
