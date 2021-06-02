@@ -75,13 +75,9 @@ ________________________________________________________________________________
 #31/05/2021
 ..test cases for update api changes
 ..test cases for UI added
-
-
-
 _______________________________________________________________________________________________________________________________________________
-
-
-
+#01/06/2021
+..test cases completed
 _______________________________________________________________________________________________________________________________________________
 
 
@@ -155,13 +151,13 @@ ________________________________________________________________________________
 	19.factories/seeders should be changed so that we can directly seed and use front and back.
 	20.stages.vue line 124 to..do not direct access
 	21.___not showing success message on successfull edit/delete.
+	22.___factories needs to be changed
 #points of issue to be fixed
     1.candidacy new and then close
     2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
     3.assigned to -> me filter in Candidacy?? or History??...remaining to implement
 	4.___start creating stage select type and questionnaire then cancle it, again start creating ......editing..same stage type have changed to selected type
 	5.same as above for questionnaire (page reload on cancel)()
-
 _______________________________________________________________________________________________________________________________________________
 
 
@@ -209,9 +205,3 @@ ________________________________________________________________________________
 ..test cases for UI [[[Please note this, when you start working on test case , do this change also
 https://github.com/Improwised/apricot-2/blob/develop/web/store/actions.js#L76-L79, add condition, if metadata is not empty then only split the string.
 ]]]
-...stage update() --> type=questionnaire
-
-
-
-//nirav says in nextTick,resetModal
-//yogesh says in dataComponentTypeAdded,
