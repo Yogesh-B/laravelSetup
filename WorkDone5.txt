@@ -91,7 +91,9 @@ ________________________________________________________________________________
 ..validation testcase 
 ..delete component added + test case changes PR 224 #MergedToDevelop
 _______________________________________________________________________________________________________________________________________________
-
+#07/06/2021
+..backend is done, resumes are retrieved in new page
+..
 _______________________________________________________________________________________________________________________________________________
 
 
@@ -167,6 +169,7 @@ ________________________________________________________________________________
     2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
     3.assigned to -> me filter in Candidacy?? or History??...remaining to implement
 	4.___Changes in readMe of app and web regarding the vendor publish and admin_group
+	
 _______________________________________________________________________________________________________________________________________________
 
 
@@ -203,4 +206,7 @@ ________________________________________________________________________________
 
 //meet
 ... resume upload ->> 173 //option for resume link...array
-
+			..backend changes for handle the resume link in update function only
+			..in history page..show list of links to see resumes ..//candidacy is already shown to users who are assignee...no need to make changes
+			..EDIT PAGE show resume link field and date selector
+			..test cases 🙂
