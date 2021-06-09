@@ -214,5 +214,8 @@ ________________________________________________________________________________
 
 //meet
 ... resume upload ->> 173 //option for resume link...array
-
-			..test cases 🙂 for edit and _id 
+	..test cases 🙂 for edit and _id 
+		..history page shows the resumes
+		..edit page...add button with Resume heading rendered delete button also
+		..edit page...add button addes new empty resume
+		..edit page...delete button removes a resume
