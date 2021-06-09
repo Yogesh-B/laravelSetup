@@ -214,7 +214,5 @@ ________________________________________________________________________________
 
 //meet
 ... resume upload ->> 173 //option for resume link...array
-			..backend changes for handle the resume link in update function only
-			..in history page..show list of links to see resumes ..//candidacy is already shown to users who are assignee...no need to make changes
-			..EDIT PAGE show resume link field and date selector
+
 			..test cases 🙂 for edit and _id 
