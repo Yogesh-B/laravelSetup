@@ -103,7 +103,8 @@ ________________________________________________________________________________
 ..add and delete button working ,,backend integration working//edit candidate
 ..test case started
 _______________________________________________________________________________________________________________________________________________
-
+#10/06/2021
+..
 
 _______________________________________________________________________________________________________________________________________________
 (
@@ -212,10 +213,13 @@ ________________________________________________________________________________
 
 
 
-//meet
+
+__add button color info
+__backend not accepting empty resume list // test case
+__give date from backend
 ... resume upload ->> 173 //option for resume link...array
 	..test cases 🙂 for edit and _id 
-		..history page shows the resumes
+		#..history page shows the resumes
 		..edit page...add button with Resume heading rendered delete button also
 		..edit page...add button addes new empty resume
 		..edit page...delete button removes a resume
