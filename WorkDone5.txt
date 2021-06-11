@@ -105,6 +105,18 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________
 #10/06/2021
 ..test cases done
+_______________________________________________________________________________________________________________________________________________
+#11/06/2021
+..changes(now plan has changed🙄🤔😂)
+..validation added
+(((
+	...don't just code that just works and looks just usable.......build a product of your dreams.
+)))
+_______________________________________________________________________________________________________________________________________________
+
+
+_______________________________________________________________________________________________________________________________________________
+
 
 _______________________________________________________________________________________________________________________________________________
 (
@@ -113,112 +125,39 @@ ________________________________________________________________________________
 ###process of planning an API //things to consider from DB side 
 ###Procedure of debugging //combine syntax&local&googleSearch effectively  
 ###we are focusing on doing, but we should on learning.
-..api/v1 in swagger to be removed
-..candidate passed which stage and not passed which stage??how?? what changes???🤔🧐
-..candidacy history can have relation on candidacy
-..candidate model common function Request class tobe removed and name to be changed
-..every controller has $http_code var, that can be done directly.
-..why json_encode???//controller
-..when there is code type of assign stage but there is no entry in coding challange then? it should throw error that please add coding challange (Naman suggested)
-..same stage can be assigned twice bug.(Naman suggested)
-..in API test cases, check `all` updated fields from "database".
-..assignee_key not mandatory in coding challange
-..stage APIs responses needs to be as per convention(see candidacy responses) also pagination missing
-..coding session link should not be accessible to other than the candidate like it was in hackerrank
-
-
-#close stage API
-#close stage Test cases & Swagger
-
-_________________________________________________________________________________________________________________________
-
-issue while closing candidacy has no metadata in it.
-
 
 _______________________________________________________________________________________________________________________________________________
 #points of improvement
-	1.Name filter not working
-	2.Stage assignment not working/ API integration is remaining
-	3.feedback all things not working
-	4.history has some object thing that should be fixed
-	5.stage tab is not working
-	6.coding challage do not load coding challanges drom DB
-	7.save function after creating coding challange do not work
-	8.submission changes 
-
-
-	1.user name not showing at top
-	2.login page show show up like it is showed up in candidacy page...when unauthorized
-	3.detail ma java mate link in history
-	4.meta for stage while creating
-	5.
-	1.user should be redirected to thank you page/ or something else/  spam registration(like DDOS attack kind of) should be prevented	
-	2.Login should be Oauth
-	3.Apricot brand logo does not redirect to home page while we are listing candidacies
-	4.Sign out not working
-	5. register form should be cleared and toast notif
 	6.metadata in all model default to empty array like done in candidacy;//to ignore the errors.
-	7.questSubmission controller can be just QuesController...
 	8.relations missing in many models // default metadata verify // nullable fields check
-	9.one query at start of CSV upload for loop for candidacy and another query in observer of queSubmission
 	10.register vue can have focus method
 	11.migrat:refresh failures because of not-null constraints.
-	12.CSV queue is using array which is stored in database, instead use filepath for better performance and database effeciency.
-	13.CSV upload queue started notification only, completed notif not given.  
 	14.history common function second loop, first block accepts only array, string would throw error,(make that part like if the request is given then it would be set as per params, if request and params not given then it would set from extra//1.request2.extra  no append.)
 	15.middleware to check candidacy is inactive like coding-session middleware
 	16.auth user called two times....once in questionnaire store and another in observer//same for candidacy find
 	17.que_submission check stage assigned?? do not accept response for those who are not assigned.
 	18.stage test cases extra payload variables to be removed
 	19.factories/seeders should be changed so that we can directly seed and use front and back.
-	20.stages.vue line 124 to..do not direct access
-	21.___factories needs to be changed
+	22.___on focus remove error...add stage//remove required also
+	23.candidate model common function Request class tobe removed and name to be changed
+	24.every controller has $http_code var, that can be done directly.
+	25.in API test cases, check `all` updated fields from "database".
+	26.api responses are all not in same convention
+
 #points of issue to be fixed
-    1.candidacy new and then close
-    2.if only candidate and no candidacy in between record, then it will cause error//CSV upload    
-    3.assigned to -> me filter in Candidacy?? or History??...remaining to implement
 	4.___Changes in readMe of app and web regarding the vendor publish and admin_group
 	
 _______________________________________________________________________________________________________________________________________________
 
+...stage CRUD.....
+	..front back..update and set type questionnaire
 
 
+//-------register.vue----do not submit two times
 
-//metadata changes in submission
-
-..linting setup discuss
-..stage gui fixing
-..questionnaire table new column last_upload
-	..assignStage....type=questionnaire	
-		..create if not exists
-		..url and urlHash in metadata of questionnaire, question = {}
-	..Job($data, $questionnaire_key)
-		..show each records success and failure in last_upload
-
-
-
-//what should be done to stage while questionnaire submitted??
-
-
-...stage frontend.....
-	..when type=questionnaire then select from list
-   
-   1.give stage name 
-   2.select type "questionnaire"
-   3.index api of questionnaire....select questionnaire key
-   4.pass data...
-...stage backend.....
-	...for type questionnaire insert key in metadata
-	..update API also
-
-
-
-
-__add button color info
-__backend not accepting empty resume list(fix it to accept empty) // test case for resumes
-... resume upload ->> 173 //option for resume link...array
-	..test cases 🙂 for edit and _id 
-		#..history page shows the resumes
-		..edit page...add button with Resume heading rendered delete button also
-		..edit page...add button addes new empty resume
-		..edit page...delete button removes a resume
+//resume addd only one //backend track all... //no blank entry in backend
+//reverse order on history page
+//link only
+//toast displayed instead of error message(axios not able to handle validation messages)
+//datepicker should not allow future dates
+//History page added_at tool tip
