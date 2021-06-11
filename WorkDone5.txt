@@ -104,7 +104,7 @@ ________________________________________________________________________________
 ..test case started
 _______________________________________________________________________________________________________________________________________________
 #10/06/2021
-..
+..test cases done
 
 _______________________________________________________________________________________________________________________________________________
 (
@@ -215,8 +215,7 @@ ________________________________________________________________________________
 
 
 __add button color info
-__backend not accepting empty resume list // test case
-__give date from backend
+__backend not accepting empty resume list(fix it to accept empty) // test case for resumes
 ... resume upload ->> 173 //option for resume link...array
 	..test cases 🙂 for edit and _id 
 		#..history page shows the resumes
