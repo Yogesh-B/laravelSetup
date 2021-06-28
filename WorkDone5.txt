@@ -114,3 +114,9 @@ ________________________________________________________________________________
 	...why did you do this?(don't ask this to others , ask yourself)
 )))
 _______________________________________________________________________________________________________________________________________________
+
+(((
+..make small PRs so that it is easy for reviewers to review and other tasks are blocked because of that and can be merged quickly.
+..
+
+)))
