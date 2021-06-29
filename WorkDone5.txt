@@ -117,6 +117,6 @@ ________________________________________________________________________________
 
 (((
 ..make small PRs so that it is easy for reviewers to review and other tasks are blocked because of that and can be merged quickly.
-..
+..technology , you can learn from docs and resources, but iteration/process you learn on actual project.
 
 )))
