@@ -120,4 +120,5 @@ ________________________________________________________________________________
 ..technology , you can learn from docs and resources, but iteration/process you learn on actual project.
 ..keep mind open and do not repeat the mistakes. Dont just think the solution to the task, also see the flow.
 ..give yourself timelimit...keep decreasing as you learn more about it..
+..review your code before giving for review.  two steps.1.far sight, .2.near sight.
 )))
