@@ -121,4 +121,5 @@ ________________________________________________________________________________
 ..keep mind open and do not repeat the mistakes. Dont just think the solution to the task, also see the flow.
 ..give yourself timelimit...keep decreasing as you learn more about it..
 ..review your code before giving for review.  two steps.1.far sight, .2.near sight.
+..when it becomes routine...learning comes from mistakes rather new things.
 )))
