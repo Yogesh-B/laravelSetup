@@ -125,4 +125,5 @@ ________________________________________________________________________________
 ..for better time utilization, write quality code not quantitty code. and for writing quality code use more brain rather using more hands and mouth.
 ..treat everyone with respect. even in normal conversation.
 ..while reviewing use the word "please". (I don't know why, but it feels good.)
+..after doing changes test it manually :( 
 )))
