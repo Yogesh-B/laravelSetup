@@ -129,4 +129,6 @@ ________________________________________________________________________________
 ..Problem, Cause, Solution.
 ..Don't be furious even if deadline is coming. keep brain calm, focused, open minded.||(When it is really serious, don't take it seriously. Just try what you can.)
 ..test cases are like I am playing with what I've build.(I should feel playing while developing it also.)
+..do not use negative words(e.g. changes!!!error!!! why he gave such changes?!!! there are too many errors!!! It's a whole lot of headache.😑)
+instead use positive words(e.g. WOW! I haven't played with errors many days, Let's go outside and play with errors.🙂)
 )))
