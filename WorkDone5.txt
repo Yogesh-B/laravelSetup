@@ -128,4 +128,5 @@ ________________________________________________________________________________
 ..after doing changes test it manually :( 
 ..Problem, Cause, Solution.
 ..Don't be furious even if deadline is coming. keep brain calm, focused, open minded.||(When it is really serious, don't take it seriously. Just try what you can.)
+..test cases are like I am playing with what I've build.(I should feel playing while developing it also.)
 )))
