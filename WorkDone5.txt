@@ -132,4 +132,5 @@ ________________________________________________________________________________
 ..do not use negative words(e.g. changes!!!error!!! why he gave such changes?!!! there are too many errors!!! It's a whole lot of headache.😑)
 instead use positive words(e.g. WOW! I haven't played with errors many days, Let's go outside and play with errors.🙂)[WARNING: this does not change the situation, but it our brain gets space to think]
 ..framework gives direct helpers to calculate something that you were trying to do manually from scratch.(tip for beginner only)
+..visualize it, make it actionable.(do not forget to take action😅)
 )))
