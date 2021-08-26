@@ -134,4 +134,5 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..framework gives direct helpers to calculate something that you were trying to do manually from scratch.(tip for beginner only)
 ..visualize it, make it actionable.(do not forget to take action😅)
 ..he said separate PRs so that changes can be merged ASAP.
+..when you become senior dev, do not be too confident about "code improvement" you do in other's(mostly junior's) code.
 )))
