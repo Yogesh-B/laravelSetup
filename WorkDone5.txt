@@ -136,4 +136,5 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..he said separate PRs so that changes can be merged ASAP.
 ..when you become senior dev, do not be too confident about "code improvement" you do in other's(mostly junior's) code.
 ..when you comment on a code to be changed, keep it in somewhere personal record tracking(list) also so that it reminds the changes.
+..think of possible errors.(novice tip)
 )))
