@@ -139,4 +139,5 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..think of possible errors.(novice tip)
 ..test cases.. logic is good but show it clearly what it tests.
 ..we can't stay stuck at a point, we have to move out. And that's where people skills(stay productive and make others productive as well using physlg)(In short we have to make the work, that's why we are here.) come into picture.
+..time was for IQ, then now is EQ, SQ stays all the time.(visible effect changes as per time)
 )))
