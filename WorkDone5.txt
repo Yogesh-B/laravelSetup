@@ -122,7 +122,7 @@ ________________________________________________________________________________
 ..give yourself timelimit...keep decreasing as you learn more about it..measure the expected vs actual output.
 ..review your code before giving for review.  two steps.1.far sight, .2.near sight.
 ..when it becomes routine...learning comes from mistakes rather new things.
-..for better time utilization, write quality code not quantitty code. and for writing quality code use more brain rather using more hands and mouth.
+..for better time utilization, write quality code not quantitty code. and for writing quality code use more brain rather using more hands and mouth.(it is observed that when I use my brain that time I forget to use hands and mouth.)
 ..treat everyone with respect. even in normal conversation.
 ..while reviewing use the word "please". (I don't know why, but it feels good.)
 ..after doing changes test it manually :( 
