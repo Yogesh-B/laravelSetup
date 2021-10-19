@@ -144,4 +144,5 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..learn how to understand others perspective and learn how to explain others so they can get it clearly.
 ..plan, execute, evaluate. based on evaluation re-plan, re-execute, re-evaluate. stay in loop to improve. 
 ..don't disturb them, unless they want to be(it is not a good habit to disturb others. also our focus gets diverted).
+..making it complex(anyone can do it, easily.),making it simple(it takes some efforts.)
 )))
