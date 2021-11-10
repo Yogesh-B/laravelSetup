@@ -146,4 +146,5 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..making it complex(anyone can do it, easily.),making it simple(it takes some efforts.)
 ..give credits to others whenever possible.
 ..DBMS..can answer some complex questions in less time.| CP..when you know best logic then you don't waste resources.
+..setting deadline for tasks keeps our focus in task.(it would be great if we set unreasonable/impossible deadline and then try to make it. like playing a game...may be god knows..we should try atleast)
 )))
