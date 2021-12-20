@@ -150,4 +150,5 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..we can make some python/shell/php scripts to make our life less repetitive.  
 ..repetitive task means boredom.... lets have a roller coaster
 ..BUG!!!..reproduce(write test case), fix(fix the bug in code), test(reproduce->patch)
+..Work->work log
 )))
