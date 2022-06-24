@@ -158,6 +158,7 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..Tickets .. what is currently happening(or happened) .. and next what to do. (reason and solution)
 ..first research yourself, then ask for help.
 ..Always be respectful, Never be blamming.
+..Don't get into habit of joking like "I am not gonna do it" | "I don't care whatever happens... Let it be on fire!!!"
 ..(plan,execute,evaluate||repeat)->[limit & goal||outcome,reason]
 ..\
 )))
