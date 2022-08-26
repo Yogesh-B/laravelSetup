@@ -165,5 +165,6 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..What are you here for? and what are you doing?
 ..All things working fine even I don't put my 100% ("but you will get extra if you go _beyond 100%_")
 ..Don't take anything too serious(doing so can make situation out of control/we are not able to think properly). Don't take anything too lightly(doing so will lead to minor mistakes that causes failure).
+..Everything is boring, running behind the so called interesting things are even worst(Dopamine loop, false hopes).The way to live life is enjoy boring things.
 ..\
 )))
