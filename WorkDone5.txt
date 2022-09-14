@@ -166,5 +166,6 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..All things working fine even I don't put my 100% ("but you will get extra if you go _beyond 100%_")
 ..Don't take anything too serious(doing so can make situation out of control/we are not able to think properly). Don't take anything too lightly(doing so will lead to minor mistakes that causes failure).
 ..Everything is boring, running behind the so called interesting things are even worst(Dopamine loop, false hopes).The way to live life is enjoy boring things.
+..Are you the guy who keep thinking and stuck and not trying and thinking like "this will happen" "this happens this way, so it wont work"... Rushabh said to Bhautik today: (for coding/development)"Try the stupid of stupid idea, so that we are sure that the given idea does not work"(original: stupid ma stupid lagtu hoy to bi try karvanu etle e khabar padi jay ke aam no thaay)
 ..\
 )))
