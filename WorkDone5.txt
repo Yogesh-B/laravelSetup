@@ -174,5 +174,6 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..power comes with responsibility. responsibility is given to whom who has capability(or you can say power). And to develop capability(or power), start taking responsibilities(or initiatives)
 ..IT field... being creative is fulfilling otherwise it is boring. (but that creativity should get some value to peoples's life, right? 🤔...even you are not bringing value, still you are learning new things if you are creative.....but no-one will pay if it does not bring value to someone.) (!!!DO REMEMBER ... एक दिन सब छोडके जाना है।)
 ..Auto-complete is bad feature if you depend on it. (but it could be better if we learn from it?🤔)
+..getout common things....else code will suffer when there is a change.
 ..\
 )))
