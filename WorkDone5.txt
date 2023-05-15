@@ -175,5 +175,16 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..IT field... being creative is fulfilling otherwise it is boring. (but that creativity should get some value to peoples's life, right? 🤔...even you are not bringing value, still you are learning new things if you are creative.....but no-one will pay if it does not bring value to someone.) (!!!DO REMEMBER ... एक दिन सब छोडके जाना है।)
 ..Auto-complete is bad feature if you depend on it. (but it could be better if we learn from it?🤔)
 ..getout common things....else code will suffer when there is a change.
+{
+-> The Basics
+..Only project/product which delivers value in real world, is for what peoples pay.
+..You are having time flexibility does not mean you misuse or waste it....also same for other benefits given to you.
+	..if you waste or misuse the benefits, productivity will decrease, then output will decrease, no client will pay for it.
+	..instead utilize those benefits for learning and being more productive, hence you get client's satisfaction hence they will pay you.
+	..#there_is_no_alternative_to_hard_work  .. all have to go through it.
+	..that does not mean you work hard enough and get burned out. That will cause more problems and hard earned money will go back into fixing those problems.
+	..#give_your_100_not_1_less_not_1_more
+	..we should do work of such quality, that client does not count on time..... otherwise you would be fulfilling time shift but client will go away.  
+}
 ..\
 )))
