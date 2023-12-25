@@ -7,8 +7,8 @@ ________________________________________________________________________________
 #05/05/2021
 ..webhook done... remaining to make API and integrate
 (((
-	..when it gives errors means you are a newbie, but when it does not give error does not mean you are an expert🤔(code should work as expected and last thing, it should be effecient😄)
-	..
+    ..when it gives errors means you are a newbie, but when it does not give error does not mean you are an expert🤔(code should work as expected and last thing, it should be effecient😄)
+    ..
 )))
 _______________________________________________________________________________________________________________________________________________
 #07/05/2021
@@ -110,8 +110,8 @@ ________________________________________________________________________________
 ..changes(now plan has changed🙄🤔😂)
 ..validation added
 (((
-	...don't just code that just works and looks just usable.......build a product of your dreams.
-	...why did you do this?(don't ask this to others , ask yourself)
+    ...don't just code that just works and looks just usable.......build a product of your dreams.
+    ...why did you do this?(don't ask this to others , ask yourself)
 )))
 _______________________________________________________________________________________________________________________________________________
 
@@ -179,15 +179,15 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 -> The Basics
 ..Only project/product which delivers value in real world, is for what peoples pay.
 ..You are having time flexibility does not mean you misuse or waste it....also same for other benefits given to you.
-	..if you waste or misuse the benefits, productivity will decrease, then output will decrease, no client will pay for it.
-	..instead utilize those benefits for learning and being more productive, hence you get client's satisfaction hence they will pay you.
-	..#there_is_no_alternative_to_hard_work  .. all have to go through it.
-	..that does not mean you work hard enough and get burned out. That will cause more problems and hard earned money will go back into fixing those problems.
-	..#give_your_100_not_1_less_not_1_more
-	..we should do work of such quality, that client does not count on time..... otherwise you would be fulfilling time shift but client will go away.  
+    ..if you waste or misuse the benefits, productivity will decrease, then output will decrease, no client will pay for it.
+    ..instead utilize those benefits for learning and being more productive, hence you get client's satisfaction hence they will pay you.
+    ..#there_is_no_alternative_to_hard_work  .. all have to go through it.
+    ..that does not mean you work hard enough and get burned out. That will cause more problems and hard earned money will go back into fixing those problems.
+    ..#give_your_100_not_1_less_not_1_more
+    ..we should do work of such quality, that client does not count on time..... otherwise you would be fulfilling time shift but client will go away.  
 }
 ..some fools think they are being paid based on work time logger. That might seem temporarily true, but in long run, work done(or atleast work put in the task) is main thing.
-	..simple explanation: work->money (and for work you need knowledge as per work requirement)
+    ..simple explanation: work->money (and for work you need knowledge as per work requirement)
 ..comparison..?? pros and cons?? how to use it??
 ..\
 )))
