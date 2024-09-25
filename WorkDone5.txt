@@ -127,21 +127,16 @@ ________________________________________________________________________________
 ..while reviewing use the word "please". (I don't know why, but it feels good.)
 ..after doing changes test it manually :( 
 ..Problem, Cause, Solution.
-..Don't be furious even if deadline is coming. keep brain calm, focused, open minded.||(When it is really serious, don't take it seriously. Just try what you can.)
-..test cases are like I am playing with what I've build.(I should feel playing while developing it also.)
 ..do not use negative words(e.g. changes!!!error!!! why he gave such changes?!!! there are too many errors!!! It's a whole lot of headache.😑)
 instead use positive words(e.g. WOW! I haven't played with errors many days, Let's go outside and play with errors.🙂)[WARNING: this does not change the situation, but it our brain gets space to think]
 ..framework gives direct helpers to calculate something that you were trying to do manually from scratch.(tip for beginner only)
-..visualize it, make it actionable.(do not forget to take action😅)
 ..he said separate PRs so that changes can be merged ASAP.
-..when you become senior dev, do not be too confident about "code improvement" you do in other's(mostly junior's) code.
 ..when you comment on a code to be changed, keep it in somewhere personal record tracking(list) also so that it reminds the changes.
 ..think of possible errors.(novice tip)
 ..test cases.. logic is good but show it clearly what it tests.
-..we can't stay stuck at a point, we have to move out. And that's where people skills(stay productive and make others productive as well using physlg)(In short we have to make the work, that's why we are here.) come into picture.
+..we can't stay stuck at a point, we have to move out. And that's where people skills(stay productive and make others productive as well using physlg)(In short we have to make the work done, that's why we are here.) come into picture.
 ..time was for IQ, then now is EQ, SQ stays all the time.(visible effect changes as per time)
-..ask question to yourself what?how?why? etc. problem arises when we build(or some work, not while sleeping.).[ask questions(solve problem) yourself rather then depending on others, because in future you need to answer many questions. One who can answer questions will grow.]
-..learn how to understand others perspective and learn how to explain others so they can get it clearly.
+..ask question to yourself what?how?why? etc. problem arises when we build(or while doing some work, not while sleeping.).[ask questions(solve problem) yourself rather then depending on others, because in future you need to answer many questions. One who can answer questions will grow.]
 ..plan, execute, evaluate. based on evaluation re-plan, re-execute, re-evaluate. stay in loop to improve. 
 ..making it complex(anyone can do it, easily.),making it simple(it takes some efforts.)
 ..give credits to others whenever possible.
@@ -149,27 +144,22 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
 ..DSA..because I like small sized and fast apps.
 ..setting deadline for tasks keeps our focus in task.(it would be great if we set unreasonable/impossible deadline and then try to make it. like playing a game...may be god knows..we should try atleast)
 ..we can make some python/shell/php scripts to make our life less repetitive.  
-..repetitive task means boredom.... lets have a roller coaster
 ..BUG!!!..reproduce(write test case), fix(fix the bug in code), test(reproduce->patch)
 ..Work->work log
 ..there are only two options... learn new, or repeat. repeating is good as it is told that "practice makes man better" - practice means repeating for improvement. [third option is timepass, which is not useful!!😑]
 ..when you feel stuck..(1).open new gedit and write down why you are not feeling good. what problem are you facing etc. (2).asking random questions might help. (file should be new, after conclusion it can be saved.)
-..was the time worth it?
 ..Tickets .. what is currently happening(or happened) .. and next what to do. (reason and solution)
 ..first research yourself, then ask for help.
 ..Always be respectful, Never be blamming.
-..Don't get into habit of joking like "I am not gonna do it" | "I don't care whatever happens... Let it be on fire!!!"
 ..(plan,execute,evaluate||repeat)->[limit & goal||outcome,reason]
 ..how to manage fellows.. not too strict that they can't work at their 100%, not too liberal that their energy is totally wasted.(riding a 4 stroke bike for example... gear should change with speed, some acceleration, some breaks ... you know it well 🙂)
-..don't find mistakes in their beliefs and their way of living, cause it hurts. But you can talk about their performance, the way they approach a problem/task(you must do it, cause it affects the work).
+..don't find mistakes in their beliefs and their way of living, because it hurts. But you can talk about their performance, the way they approach a problem/task(you must do it, cause it affects the work).
 ..What are you here for? and what are you doing?
-..All things working fine even I don't put my 100% ("but you will get extra if you go _beyond 100%_")
 ..Don't take anything too serious(doing so can make situation out of control/we are not able to think properly). Don't take anything too lightly(doing so will lead to minor mistakes that causes failure).
 ..Everything is boring, running behind the so called interesting things are even worst(Dopamine loop, false hopes).The way to live life is enjoy boring things.
 ..Are you the guy who keep thinking and stuck and not trying and thinking like "this will happen" "this happens this way, so it wont work"... Rushabh said to Bhautik today: (for coding/development)"Try the stupid of stupid idea, so that we are sure that the given idea does not work"(original: stupid ma stupid lagtu hoy to bi try karvanu etle e khabar padi jay ke aam no thaay)
 ..(plan,execute,evaluate||repeat)->[limit & goal||outcome,reason]
 ..active involvement leads to either questions or clear understanding. Otherwise there will be situation of "let it be so" "ok, ok, ok ......". Active involvement comes from what???
-..Don't make joke of seniors. Some your juniors might do it with you, but you should not do it.(It does not feel good)
 ..If you feel good when someone helps you or behave good with you, you should behave well with others also. If you don't like someone making joke on you, you should not make joke on someone.
 ..power comes with responsibility. responsibility is given to whom who has capability(or you can say power). And to develop capability(or power), start taking responsibilities(or initiatives)
 ..IT field... being creative is fulfilling otherwise it is boring. (but that creativity should get some value to peoples's life, right? 🤔...even you are not bringing value, still you are learning new things if you are creative.....but no-one will pay if it does not bring value to someone.) (!!!DO REMEMBER ... एक दिन सब छोडके जाना है।)
@@ -186,7 +176,6 @@ instead use positive words(e.g. WOW! I haven't played with errors many days, Let
     ..#give_your_100_not_1_less_not_1_more
     ..we should do work of such quality, that client does not count on time..... otherwise you would be fulfilling time shift but client will go away.  
 }
-..some fools think they are being paid based on work time logger. That might seem temporarily true, but in long run, work done(or atleast work put in the task) is main thing.
     ..simple explanation: work->money (and for work you need knowledge as per work requirement)
 ..comparison..?? pros and cons?? how to use it??
 ..what skills would you expect in yourself if you had your own venture? (rather than expecting a few skills with purpose of joining some big company) (your "wish", if not "venture"?🤔)
